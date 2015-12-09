@@ -92,3 +92,21 @@ Delete all the keys you will not override.
 
 ## Build the Recipe
 `$ autopkg run Microsoft\ Word.jss.recipe`
+
+## Results
+
+### Package
+
+![Package](img/Word-example-package.png)
+
+### Policy
+
+![Package](img/Word-example-policy1.png)
+
+![Package](img/Word-example-policy2.png)
+
+![Package](img/Word-example-policy3.png)
+
+### Smart Group
+
+![Package](img/Word-example-smartgroup.png)
