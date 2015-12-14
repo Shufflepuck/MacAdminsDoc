@@ -10,6 +10,7 @@ In this profile, you'll add two payloads:
 ### Credentials (order is important):
 1. First tab: Upload your CA, and select "Allow access to all applications" and "Allow export from Keychain"
 2. Second tab: use your machine certificate (uncheck everything)
+
 ###Network:
 1. check Auto-Join
 2. WPA/WPA2 Enteprise. For some reason, if I choose only "WPA2 Enterprise", it fails. But it will then connect as WPA2.
