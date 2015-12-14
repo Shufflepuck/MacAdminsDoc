@@ -14,3 +14,9 @@
 # Deploying
 
 As of 2015.12.14, deploying com.apple.commerce doesn't work as profiles. You can use this [script](https://github.com/74bit/74bit_scripts/blob/master/enableOSXAutomaticUpdates/enableOSXAutomaticUpdates.sh).
+
+## With Casper Suite
+
+1. Create a [script](https://github.com/ftiff/ftiff-scripts/blob/master/bash/set-osx-autoupdates.sh) from "Computer Management > Scripts"
+2. Create a Policy "Once per Computer" to execute this script
+3. Create a Policy "Once per Week" with Software Updates > Install Software Updates from "Each computer's default software update server". Don't forget to set restart options.
