@@ -1,4 +1,4 @@
-# How to use the REST API
+# How to use the AirWatch REST API
 
 According to the "AirWatch REST API Guide" PDF document that you can get in https://my.air-watch.com, you need:
 
