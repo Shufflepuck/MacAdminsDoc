@@ -57,3 +57,35 @@ echo "$FullScriptName -- Completed personalizing Office 2016 for $username"
 
 # Quit the script without errors.
 exit 0
+```
+
+# Deploying Office Templates
+
+It's technically possible to deploy your templates in `~/Library/Group Containers/UBF8T346G9.Office/User Content.localized/Templates.localized`, but unfortunately this container won't exist until the user launches an Office application. There's a better way.
+
+Simply drop your templates in `/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized` to get them avaiable for all users at any time. They will be available to the user in `File > New from Template…`. You can also create subfolders (won't change display). As they're directly referenced, any change to this folder will be reflected in Office (they're not copied).
+
+You can either create a package to deploy the templates at the right place, or use this script to create the directories:
+```bash
+# This script checks for and creates if needed the directories for Office 2016 templates for Word, PowerPoint and Excel
+
+function test_command {
+    "$@"
+    local status=$?
+    /bin/echo -n "Executing '$@'… "
+    if [ $status -ne 0 ]; then
+        echo "ERROR: $@" >&2
+        exit $status
+    fi
+    echo "OK"
+
+}
+
+if [[ ! -e "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized" ]]; then
+   /bin/echo "Necessary support directories for Office 2016 templates not found."
+   /bin/echo "Creating necessary support directories for Office 2016 templates."
+   test_command /bin/mkdir -p "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized"
+   test_command /usr/sbin/chown -R root:admin "/Library/Application Support/Microsoft/Office365"
+   test_command /bin/chmod -R 775 "/Library/Application Support/Microsoft/Office365"
+fi
+```
