@@ -70,6 +70,7 @@ Simply drop your templates in `/Library/Application Support/Microsoft/Office365/
 You can either create a package to deploy the templates at the right place, or use this script to create the directories:
 ```bash
 # This script checks for and creates if needed the directories for Office 2016 templates for Word, PowerPoint and Excel
+# Made by Rich-the-Great
 
 function test_command {
     "$@"
@@ -83,11 +84,19 @@ function test_command {
 
 }
 
-if [[ ! -e "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized" ]]; then
+if [[ ! -d "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized" ]]; then
    /bin/echo "Necessary support directories for Office 2016 templates not found."
    /bin/echo "Creating necessary support directories for Office 2016 templates."
+   
    test_command /bin/mkdir -p "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized"
-   test_command /usr/sbin/chown -R root:admin "/Library/Application Support/Microsoft/Office365"
-   test_command /bin/chmod -R 775 "/Library/Application Support/Microsoft/Office365"
+   
+   # We don't use -R to make sure we don't step on anybody's shoe
+   # On a fresh 15.19.1 install, perms are root:wheel 755
+   test_command /usr/sbin/chown root:wheel "/Library/Application Support/Microsoft/Office365"
+   test_command /usr/sbin/chown root:wheel "/Library/Application Support/Microsoft/Office365/User Content.localized"
+   test_command /usr/sbin/chown root:wheel "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized"
+   test_command /bin/chmod 755 "/Library/Application Support/Microsoft/Office365"
+   test_command /bin/chmod 755 "/Library/Application Support/Microsoft/Office365/User Content.localized"
+   test_command /bin/chmod 755 "/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized"
 fi
 ```
