@@ -11,7 +11,7 @@ minidefrancois:~ fti$ defaults read "/Users/fti/Library/Group Containers/UBF8T34
 }
 ```
 
-## How to script it
+#### How to script it
 
 A simple script that sets both the Office 2016 Name and Initials values in the MeContact.plist for the currently logged in user.
 
@@ -64,6 +64,8 @@ exit 0
 It's technically possible to deploy your templates in `~/Library/Group Containers/UBF8T346G9.Office/User Content.localized/Templates.localized`, but unfortunately this container won't exist until the user launches an Office application. There's a better way.
 
 Simply drop your templates in `/Library/Application Support/Microsoft/Office365/User Content.localized/Templates.localized` to get them avaiable for all users at any time. They will be available to the user in `File > New from Template…`. You can also create subfolders (won't change display). As they're directly referenced, any change to this folder will be reflected in Office (they're not copied).
+
+#### How to script it
 
 You can either create a package to deploy the templates at the right place, or use this script to create the directories:
 ```bash
