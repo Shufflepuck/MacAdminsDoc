@@ -12,6 +12,11 @@ On OS X, the printing subsystem is CUPS.
 
 `sudo lpadmin -d [printer]`
 
+## Enable Kerberos Authentication
+
+`sudo lpadmin -p [printer] -o auth-info-required=negotiate`
+
+You can eventually follow [this article](https://support.apple.com/en-us/HT202311) from Apple.
 ## Change default options
 
 To change defaults, use this command: `sudo lpadmin -p [printer] -o [option]=[value]`. For example: `sudo lpadmin -p Follow-Me -o XRBannerSheet=None`
