@@ -18,3 +18,28 @@
 | FileVault Password                                                           | FileVault and remote passwords are not synced                                                                                                                                                                                                                                                      | Filevault and remote passwords are not synced                                                                                                                                                                                       |
 |                                                                              | When the AD password is reset, Filevault will keep the previous password, meaning we need to also reset FileVault using the recovery key                                                                                                                                                           | Enterprise Connect or NoMAD will sync the local password when it detects a change. Change will be replicated to FileVault                                                                                                                    |
 
+## Choosing between NoMAD and Apple Enterprise Connect
+
+|                                | Enterprise Connect                               | NoMAD         | (Active Directory binding)        |
+|--------------------------------|--------------------------------------------------|---------------|-----------------------------------|
+| Vendor                         | Apple                                            | Open Source   | Apple                             |
+| Support                        | Supported by AppleCare OS Support                | No Support    | Supported by AppleCare OS Support |
+| OS requirement                 | 10.9+                                            |               | 10.2+                             |
+| Single Sign-On                 | Automatically                                    | Automatically | Only at login and screensaver     |
+| Password Expiration            | via Notification Center                          |               | Only at Login                     |
+| Password change                | via menu item                                    |               | via System Preferences            |
+| Password Synchronization       | Only when user is logged in                      |               | Automatic                         |
+| Network Share Automount        | Network Home directory and custom                |               |                                   |
+| Support for SSO on DFS shares  | No                                               | Planned       | No                                |
+| AD Binding required?           | No                                               | No            | Yes                               |
+| macOS native?                  | Uses Apple Frameworks                            |               | macOS Native                      |
+| Script on password change      | √                                                |               | x                                 |
+| Script on connection completed | √                                                |               | x                                 |
+| Audit script                   | √                                                |               | x                                 |
+| Distribution                   | single .pkg                                      |               | macOS Native                      |
+| Configuration                  | via a Configuration Profile (and .plist)         |               | multiple ways                     |
+| X509 Identity from CA          | x                                                | √             |                                   |
+| Maturity                       | Mature                                           | Public Beta   |                                   |
+| Installation                   | Two-day on-site professional services engagement |               | None                              |
+| Price                          | $5'500                                           | Free          | Free                              |
+| Availability                   | Contact your local Apple Sales Rep               | https://gitlab.com/Mactroll/NoMAD        | macOS Native                        |
