@@ -23,23 +23,33 @@
 |                                | Enterprise Connect                               | NoMAD         | (Active Directory binding)        |
 |--------------------------------|--------------------------------------------------|---------------|-----------------------------------|
 | Vendor                         | Apple                                            | Open Source   | Apple                             |
-| Support                        | Supported by AppleCare OS Support                | No Support    | Supported by AppleCare OS Support |
-| OS requirement                 | 10.9+                                            |               | 10.2+                             |
+| Support                        | Supported by AppleCare OS Support                | Support plans coming with official release    | Supported by AppleCare OS Support |
+| OS requirement                 | 10.9+                                            | 10.10+        | 10.2+                             |
 | Single Sign-On                 | Automatically                                    | Automatically | Only at login and screensaver     |
-| Password Expiration            | via Notification Center                          |               | Only at Login                     |
-| Password change                | via menu item                                    |               | via System Preferences            |
-| Password Synchronization       | Only when user is logged in                      |               | Automatic                         |
-| Network Share Automount        | Network Home directory and custom                |               |                                   |
+| Password Expiration            | via Notification Center                          | via Notification Center     | Only at Login                     |
+| Password change                | via menu item                                    | via menu item          | via System Preferences            |
+| Fine Grained Password Policy support | x | √ | x
+|
+| Quick links to getting support and software | x | √ | x
+|
+| Support for changing passwords not using AD, e.g. a web-based password portal | x | √ | x
+|
+| 
+|
+| Password Synchronization       | Only when user is logged in                      | Only when user is logged in      | Automatic                         |
+| Network Share Automount        | Network Home directory and custom                | Network Home directory in menu item          |                                   |
 | Support for SSO on DFS shares  | No                                               | Planned       | No                                |
 | AD Binding required?           | No                                               | No            | Yes                               |
-| macOS native?                  | Uses Apple Frameworks                            |               | macOS Native                      |
-| Script on password change      | √                                                |               | x                                 |
-| Script on connection completed | √                                                |               | x                                 |
-| Audit script                   | √                                                |               | x                                 |
-| Distribution                   | single .pkg                                      |               | macOS Native                      |
-| Configuration                  | via a Configuration Profile (and .plist)         |               | multiple ways                     |
+| macOS native?                  | Uses Apple Frameworks                            | macOS Native         | macOS Native                      |
+| Script on password change      | √                                                | x            | x                                 |
+| Script on connection completed | √                                                | √            | x                                 |
+| Audit script                   | √                                                | Planned            | x                                 |
+| Local admin password checkout when unbound |  x | Planned | x
+|
+| Distribution                   | single .pkg                                      | single .pkg              | macOS Native                      |
+| Configuration                  | via a Configuration Profile (and .plist)         | via a Configuration Profile (and .plist)              | multiple ways                     |
 | X509 Identity from CA          | x                                                | √             |                                   |
 | Maturity                       | Mature                                           | Public Beta   |                                   |
-| Installation                   | Two-day on-site professional services engagement |               | None                              |
+| Installation                   | Two-day on-site professional services engagement | None              | None                              |
 | Price                          | $5'500                                           | Free          | Free                              |
-| Availability                   | Contact your local Apple Sales Rep               | https://gitlab.com/Mactroll/NoMAD        | macOS Native                        |
+| Availability                   | Contact your local Apple Sales Rep               | http://nomad.menu        | macOS Native                        |
