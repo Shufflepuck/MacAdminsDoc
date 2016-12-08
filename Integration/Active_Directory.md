@@ -29,23 +29,17 @@
 | Password Expiration            | via Notification Center                          | via Notification Center     | Only at Login                     |
 | Password change                | via menu item                                    | via menu item          | via System Preferences            |
 | Fine Grained Password Policy support | x | √ | x
-|
 | Quick links to getting support and software | x | √ | x
-|
 | Support for changing passwords not using AD, e.g. a web-based password portal | x | √ | x
-|
-| 
-|
 | Password Synchronization       | Only when user is logged in                      | Only when user is logged in      | Automatic                         |
 | Network Share Automount        | Network Home directory and custom                | Network Home directory in menu item          |                                   |
 | Support for SSO on DFS shares  | No                                               | Planned       | No                                |
 | AD Binding required?           | No                                               | No            | Yes                               |
-| macOS native?                  | Uses Apple Frameworks                            | macOS Native         | macOS Native                      |
+| macOS native?                  | Uses Apple Frameworks                            | Uses Apple Frameworks         | macOS Native                      |
 | Script on password change      | √                                                | x            | x                                 |
 | Script on connection completed | √                                                | √            | x                                 |
 | Audit script                   | √                                                | Planned            | x                                 |
 | Local admin password checkout when unbound |  x | Planned | x
-|
 | Distribution                   | single .pkg                                      | single .pkg              | macOS Native                      |
 | Configuration                  | via a Configuration Profile (and .plist)         | via a Configuration Profile (and .plist)              | multiple ways                     |
 | X509 Identity from CA          | x                                                | √             |                                   |
