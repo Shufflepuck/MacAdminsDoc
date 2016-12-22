@@ -23,7 +23,7 @@
 |                                | Enterprise Connect                               | NoMAD         | (Active Directory binding)        |
 |--------------------------------|--------------------------------------------------|---------------|-----------------------------------|
 | Vendor                         | Apple                                            | Open Source   | Apple                             |
-| Support                        | Supported by AppleCare OS Support                | Support plans coming with official release    | Supported by AppleCare OS Support |
+| Support                        | Supported by AppleCare OS Support                | Support plans available    | Supported by AppleCare OS Support |
 | OS requirement                 | 10.9+                                            | 10.10+        | 10.2+                             |
 | Single Sign-On                 | Automatically                                    | Automatically | Only at login and screensaver     |
 | Password Expiration            | via Notification Center                          | via Notification Center     | Only at Login                     |
