@@ -43,7 +43,7 @@
 | Distribution                   | single .pkg                                      | single .pkg              | macOS Native                      |
 | Configuration                  | via a Configuration Profile (and .plist)         | via a Configuration Profile (and .plist)              | multiple ways                     |
 | X509 Identity from CA          | x                                                | √             |                                   |
-| Maturity                       | Mature                                           | Public Beta   |                                   |
+| Maturity                       | Mature                                           | 1.0.2   |                                   |
 | Installation                   | Two-day on-site professional services engagement | None              | None                              |
 | Price                          | $5'500                                           | Free          | Free                              |
 | Availability                   | Contact your local Apple Sales Rep               | http://nomad.menu        | macOS Native                        |
