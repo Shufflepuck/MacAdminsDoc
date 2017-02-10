@@ -20,19 +20,26 @@
 
 ## Choosing between NoMAD and Apple Enterprise Connect
 
+Versions used:
+
+- Enterprise Connect 1.6.3
+- NoMAD 1.0.2
+- macOS 10.12
+
 |                                | Enterprise Connect                               | NoMAD         | (Active Directory binding)        |
 |--------------------------------|--------------------------------------------------|---------------|-----------------------------------|
 | Vendor                         | Apple                                            | Open Source   | Apple                             |
 | Support                        | Supported by AppleCare OS Support                | Support plans available    | Supported by AppleCare OS Support |
-| OS requirement                 | 10.9+                                            | 10.10+        | 10.2+                             |
+| OS requirement                 | 10.9+                                            | 10.10+        | 10.3+                             |
 | Single Sign-On                 | Automatically                                    | Automatically | Only at login and screensaver     |
 | Password Expiration            | via Notification Center                          | via Notification Center     | Only at Login                     |
-| Password change                | via menu item                                    | via menu item          | via System Preferences            |
-| Fine Grained Password Policy support | x | √ | x
+| Password change                | via menu item                                    | via menu item          | via System Preferences or login window           |
+| Fine Grained Password Policy support | ~ (Cannot read or specify policy) | √ | x
 | Quick links to getting support and software | x | √ | x
 | Support for changing passwords not using AD, e.g. a web-based password portal | x | √ | x
 | Password Synchronization       | Only when user is logged in                      | Only when user is logged in      | Automatic                         |
-| Network Share Automount        | Network Home directory and custom                | Network Home directory in menu item          |                                   |
+| Home Network Share Automount        | √                | √          |                                   |
+| Network Share Automount        | √                 | Planned          |                                   |
 | Support for SSO on DFS shares  | No                                               | Planned       | No                                |
 | AD Binding required?           | No                                               | No            | Yes                               |
 | macOS native?                  | Uses Apple Frameworks                            | Uses Apple Frameworks         | macOS Native                      |
@@ -45,5 +52,5 @@
 | X509 Identity from CA          | x                                                | √             |                                   |
 | Maturity                       | Mature                                           | 1.0.2   |                                   |
 | Installation                   | Two-day on-site professional services engagement | None              | None                              |
-| Price                          | $5'500                                           | Free          | Free                              |
+| Price                          | $5'500 (one-time fee)                                          | Free, Support plans available ($399 to $2'500 per year)         | Free                              |
 | Availability                   | Contact your local Apple Sales Rep               | http://nomad.menu        | macOS Native                        |
