@@ -51,5 +51,5 @@ Versions used:
 | X509 Identity from CA          | x                                                | √             |                                   |
 | Maturity                       | Mature                                           | 1.0.2   |                                   |
 | Installation                   | Two-day on-site professional services engagement | None              | None                              |
-| Price                          | $5'500 (one-time fee)                                          | Free, Support plans available ($399 to $2'500 per year)         | Free                              |
+| Price                          | $5,500 (one-time fee)                                          | Free, Support plans available ($399 to $2,500 per year)         | Free                              |
 | Availability                   | Contact your local Apple Sales Rep               | http://nomad.menu        | macOS Native                        |
