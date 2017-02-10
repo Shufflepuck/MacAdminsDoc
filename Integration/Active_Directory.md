@@ -34,7 +34,7 @@ Versions used:
 | Single Sign-On                 | Automatically                                    | Automatically | Only at login and screensaver     |
 | Password Expiration            | via Notification Center                          | via Notification Center     | Only at Login                     |
 | Password change                | via menu item                                    | via menu item          | via System Preferences or login window           |
-| Fine Grained Password Policy support | ~ (Cannot read or specify policy) | √ | x
+| Fine Grained Password Policy support | ~ (doesn't honor password expiration time) | √ | x
 | Quick links to getting support and software | x | √ | x
 | Support for changing passwords not using AD, e.g. a web-based password portal | x | √ | x
 | Password Synchronization       | Only when user is logged in                      | Only when user is logged in      | Automatic                         |
@@ -46,7 +46,6 @@ Versions used:
 | Script on password change      | √                                                | x            | x                                 |
 | Script on connection completed | √                                                | √            | x                                 |
 | Audit script                   | √                                                | Planned            | x                                 |
-| Local admin password checkout when unbound |  x | Planned | x
 | Distribution                   | single .pkg                                      | single .pkg              | macOS Native                      |
 | Configuration                  | via a Configuration Profile (and .plist)         | via a Configuration Profile (and .plist)              | multiple ways                     |
 | X509 Identity from CA          | x                                                | √             |                                   |
