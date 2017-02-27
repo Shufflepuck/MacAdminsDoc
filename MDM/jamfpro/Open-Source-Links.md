@@ -31,9 +31,20 @@ related to JAMF.
   
 ## Extension Attributes
 
+- [jhbush](https://github.com/jhbush/extension-attributes) 2014
+- [franton](https://github.com/franton/Extension-Attributes)
+- [74bit](https://github.com/74bit/Casper-Extension-Attributes)
+- [acodega](https://github.com/acodega/caspersuite)
+- [mondada](https://github.com/mondada/Casper)
+- [smashism](https://github.com/smashism/jamfpro-extension-attributes)
+- [apizz](https://github.com/apizz/JSS_Extension_Attributes)
+- [stevewood-tx](https://github.com/stevewood-tx/Casper-Extension-Attributes)
+
+
 ## Migration
 
 - (Do not use in prod!) [promoter](https://github.com/brysontyrrell/promoter)
+- [jssMigrationUtility](https://github.com/igeekjsc/JSSAPIScripts/blob/master/jssMigrationUtility.bash)
 
 ## Onboarding
 
