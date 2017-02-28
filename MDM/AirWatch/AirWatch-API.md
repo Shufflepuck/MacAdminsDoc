@@ -1,5 +1,6 @@
 
-# Initial Setup
+#Using AirWatch API
+## Initial Setup
 
 According to the "AirWatch REST API Guide" PDF document that you can get in https://my.air-watch.com, you need:
 
@@ -7,7 +8,7 @@ According to the "AirWatch REST API Guide" PDF document that you can get in http
 - **the Token**: aw-tenant-code (or API Key)
 - **Authorization**: Basic base64.b64encode("username:password")
 
-## Enable Basic Authentication and get the Token
+### Enable Basic Authentication and get the Token
 
 1. Select the right Organization Group (eg. Root)
 2. Enable Basic Authentication from `Groups > Groups & Settings > System > Advanced > API > REST > Authentication`
@@ -18,7 +19,7 @@ According to the "AirWatch REST API Guide" PDF document that you can get in http
 
 [^accessing-airwatchs-rest-api-with-python]: https://macmule.com/2015/12/14/accessing-airwatchs-rest-api-with-python/
 
-## Authorization
+### Authorization
 
 The easiest way is to use Basic authentication.
 
@@ -30,15 +31,15 @@ $ python -c "import base64; print base64.b64encode('login:password')"
 bG9naW46cGFzc3dvcmQ=
 ```
 
-## Testing
+### Testing
 
-### Testing with Curl
+#### Testing with Curl
 
 ```bash
 $ curl -X "GET" "https://host.awmdm.com/API/v1/help" \ -H "Authorization: Basic bG9naW46cGFzc3dvcmQ=" \ -H "aw-tenant-code: bG9naW46cGFzc3dvcmFzZG/2FmYXNkZmFkc2Zhc2Zk="
 ```
 
-### Testing with Python
+#### Testing with Python
 
 ```python
 # Install the Python Requests library:
@@ -67,11 +68,11 @@ def send_request():
         print('HTTP Request failed')
 ```
 
-# Queries (using Python)
+## Queries (using Python)
 
 I suggest using a REST editor to test your parameters, such as [Paw](https://luckymarmot.com/paw). It can also automatically generates python code.
 
-## Opening Request
+### Opening Request
 
 
 ```python
@@ -111,7 +112,7 @@ except requests.exceptions.RequestException as e:
 ```
 
 
-## Getting all devices
+### Getting all devices
 
 `request = '/API/v1/mdm/devices/search'`
 
@@ -129,7 +130,7 @@ except requests.exceptions.RequestException as e:
 		print device
 ```
 
-# Using with OS X Clients
+## Using with OS X Clients
 
 Unfortunately, the API doesn't -yet- support all the features from OS X Clients:
 ```xml
