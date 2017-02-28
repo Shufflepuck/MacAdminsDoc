@@ -42,8 +42,11 @@ HFS+										Mac OS Extended
 Case-sensitive HFS+ (or hfsx)				Mac OS Extended (Case-sensitive)
 Case-sensitive Journaled HFS+ (or jhfsx)	Mac OS Extended (Case-sensitive, Journaled)
 Journaled HFS+ (or jhfs+)					Mac OS Extended (Journaled)
+========================================	==============================================	===========
 
 Source: `diskutil(8) <x-man-page://8/diskutil>`
+`<x-man-page://8/diskutil>`
+<x-man-page://8/diskutil>
 
 APFS
 ^^^^
