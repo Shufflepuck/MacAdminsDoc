@@ -11,19 +11,22 @@ Partition Schemes
 |Acronym|Name|Description|
 +-------+----+-----------+
 
+- **Apple Partition Map (APM)**: This is the traditional Apple partitioning scheme used to start up a PowerPC-based Macintosh computer, to use the disk as a non-startup disk with any Mac, or to create a multiplatform compatible startup disk. 
+- **Master Boot Record (MBR)**: This is the DOS/Windows-compatible partitioning scheme.
+- **GUID Partitioning Table (GPT)**: This is the partitioning scheme used to start up an Intel-based Macintosh Computer.
 
-+---------+------------------------+-------------------------------------------------------------------------+
-| Acronym | Name                   | Description                                                             |
-+---------+------------------------+-------------------------------------------------------------------------+
-| APM     | Apple Partition Map    | This is the traditional Apple partitioning scheme used to start up a    |
-|         |                        | PowerPC-based Macintosh computer, to use the disk as a non-startup disk |
-|         |                        | with any Mac, or to create a multiplatform compatible startup disk.     |
-+---------+------------------------+-------------------------------------------------------------------------+
-| MBR     | Master Boot Record     | This is the DOS/Windows-compatible partitioning scheme.                 |
-+---------+------------------------+-------------------------------------------------------------------------+
-| GPT     | GUID Partitioning Table| This is the partitioning scheme used to start up an Intel-based         |
-|         |                        | Macintosh computer.                                                     |
-+---------+------------------------+-------------------------------------------------------------------------+
++---------+-------------------------+-------------------------------------------------------------------------+
+| Acronym | Name                    | Description                                                             |
++---------+-------------------------+-------------------------------------------------------------------------+
+| APM     | Apple Partition Map     | This is the traditional Apple partitioning scheme used to start up a    |
+|         |                         | PowerPC-based Macintosh computer, to use the disk as a non-startup disk |
+|         |                         | with any Mac, or to create a multiplatform compatible startup disk.     |
++---------+-------------------------+-------------------------------------------------------------------------+
+| MBR     | Master Boot Record      | This is the DOS/Windows-compatible partitioning scheme.                 |
++---------+-------------------------+-------------------------------------------------------------------------+
+| GPT     | GUID Partitioning Table | This is the partitioning scheme used to start up an Intel-based         |
+|         |                         | Macintosh computer.                                                     |
++---------+-------------------------+-------------------------------------------------------------------------+
 
 Source: [diskutil(8)](x-man-page://8/diskutil)
 
