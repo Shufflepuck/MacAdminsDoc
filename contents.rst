@@ -6,4 +6,11 @@ test
    :titlesonly:	
 
    Printing
-   MDM/*/*
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   :caption: Jamf Pro
+
+   MDM/jamfpro/*
+   MDM/CasperSuite/*
