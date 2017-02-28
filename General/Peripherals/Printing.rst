@@ -83,7 +83,7 @@ Adding a printer
 Network Printer
 ^^^^^^^^^^^^^^^
 The command to install a printer is `lpadmin`. You will need to specify:
-- `-E` to Enable the destination and accept jobs
+- ``-E`` to Enable the destination and accept jobs
 - `-p [name]`: name of the printer
 - `-v [uri]`: path to the queue (smb://server/queue)
 - `-P [PPD]`: path to PPD (usually in /Library/Printers/PPDs/Contents/Resources/)
@@ -93,7 +93,7 @@ The command to install a printer is `lpadmin`. You will need to specify:
 Example
 """"""""
 
-.. highlight:: bash
+.. code-block:: bash
 
     #!/bin/bash
     #
