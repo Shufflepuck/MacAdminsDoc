@@ -1,3 +1,6 @@
+General Mac Knowledge
+*********************
+
 .. toctree::
     :maxdepth: 2
     :titlesonly:
