@@ -36,3 +36,9 @@ _MacAdmins Doc_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 
    MDM/jamfpro/index
    MDM/CasperSuite/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption Airwatch
+
+   MDM/AirWatch/index

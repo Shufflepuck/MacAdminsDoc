@@ -3,5 +3,3 @@
     :glob:
 
     *
-    AutoPKG/*
-    JSS/*
