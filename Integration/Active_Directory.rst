@@ -35,7 +35,7 @@ Versions used:
 - macOS 10.12
 
 =============================================================================   ===============================================================================     ========================================================    ==========================
-                                                                                Enterprise Connect                                                                  NoMAD                                                       (Active Directory binding)
+x                                                                               Enterprise Connect                                                                  NoMAD                                                       (Active Directory binding)
 =============================================================================   ===============================================================================     ========================================================    ==========================
 Vendor                                                                          Apple                                                                               Open Source                                                 Apple
 Support                                                                         Supported by Apple PS as included in the engagement and/or AppleCare OS Support     Support plans available                                     Supported by AppleCare OS Support
