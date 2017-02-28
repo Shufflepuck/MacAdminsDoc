@@ -7,7 +7,7 @@ Ways to modify CUPS configuration
 
 - System Preferences > Printers & Scanners
 - `<http://localhost:631/>`_
-- `sudo lpadmin`
+- ``sudo lpadmin``
 
 Options
 -------
@@ -15,24 +15,24 @@ Options
 Set default printer
 ^^^^^^^^^^^^^^^^^^^
 
-`sudo lpadmin -d [printer]`
+``sudo lpadmin -d [printer]``
 
 Enable Kerberos Authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`sudo lpadmin -p [printer] -o auth-info-required=negotiate`
+``sudo lpadmin -p [printer] -o auth-info-required=negotiate``
 
 You can eventually follow `this article <https://support.apple.com/en-us/HT202311>`_ from Apple.
 
 Change default options
 ^^^^^^^^^^^^^^^^^^^^^^
 
-To change defaults, use this command: `sudo lpadmin -p [printer] -o [option]=[value]`. For example: `sudo lpadmin -p Follow-Me -o XRBannerSheet=None`
+To change defaults, use this command: ``sudo lpadmin -p [printer] -o [option]=[value]``. For example: ``sudo lpadmin -p Follow-Me -o XRBannerSheet=None``
 
 List available options 
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Use `lpoptions -p [printer] -l`.
+Use ``lpoptions -p [printer] -l``.
 
 Notable options
 ^^^^^^^^^^^^^^^
@@ -40,7 +40,7 @@ Notable options
 Option              Values                          Description
 ==================  ==========================      =======================================
 printer_is_shared   true/false                      share printer 
-auth-info-required  "none"                          set to `negotiate` to allow Kerberos
+auth-info-required  "none"                          set to ``negotiate`` to allow Kerberos
                     "username,password"             
                     "domain,username,password"      
                     or "negotiate" (Kerberos)       
@@ -60,21 +60,21 @@ Using GUI
 
 1. Open print dialog
 2. Create a preset
-3. execute `defaults read ~/Library/Preferences/com.apple.print.custompresets.forprinter.[printer].plist [preset] > before.txt`
+3. execute ``defaults read ~/Library/Preferences/com.apple.print.custompresets.forprinter.[printer].plist [preset] > before.txt``
 4. Make changes
 5. Create a new preset
-6. execute `defaults read ~/Library/Preferences/com.apple.print.custompresets.forprinter.[printer].plist [new_preset] > after.txt`
-7. See differences with `diff before.txt after.txt`
+6. execute ``defaults read ~/Library/Preferences/com.apple.print.custompresets.forprinter.[printer].plist [new_preset] > after.txt``
+7. See differences with ``diff before.txt after.txt``
 
 Using CUPS Web
 """"""""""""""
 
 I found it quite interesting to follow this:
 
-1. `lpoptions -p [printer] -l > before.txt`
+1. ``lpoptions -p [printer] -l > before.txt``
 2. Make the changes on `<http://localhost:631/printers/](http://localhost:631/printers/>`_ > Printer > Set default Options
-3. Run `lpoptions -p [printer] -l > after.txt`
-4. See differences with `diff before.txt after.txt`
+3. Run ``lpoptions -p [printer] -l > after.txt``
+4. See differences with ``diff before.txt after.txt``
 
 
 Adding a printer
@@ -82,12 +82,13 @@ Adding a printer
 
 Network Printer
 ^^^^^^^^^^^^^^^
-The command to install a printer is `lpadmin`. You will need to specify:
+The command to install a printer is ``lpadmin``. You will need to specify:
+
 - ``-E`` to Enable the destination and accept jobs
-- `-p [name]`: name of the printer
-- `-v [uri]`: path to the queue (smb://server/queue)
-- `-P [PPD]`: path to PPD (usually in /Library/Printers/PPDs/Contents/Resources/)
-- `-o [option]=[value]`: specify options
+- ``-p [name]``: name of the printer
+- ``-v [uri]``: path to the queue (smb://server/queue)
+- ``-P [PPD]``: path to PPD (usually in /Library/Printers/PPDs/Contents/Resources/)
+- ``-o [option]=[value]``: specify options
 
 
 Example
