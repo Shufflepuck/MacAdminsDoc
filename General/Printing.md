@@ -1,31 +1,32 @@
+# Printing
 On OS X, the printing subsystem is CUPS. 
 
-# Ways to modify CUPS configuration
+## Ways to modify CUPS configuration
 
 - System Preferences > Printers & Scanners
 - http://localhost:631/
 - `sudo lpadmin`
 
-# Options 
+## Options 
 
-## Set default printer
+### Set default printer
 
 `sudo lpadmin -d [printer]`
 
-## Enable Kerberos Authentication
+### Enable Kerberos Authentication
 
 `sudo lpadmin -p [printer] -o auth-info-required=negotiate`
 
 You can eventually follow [this article](https://support.apple.com/en-us/HT202311) from Apple.
-## Change default options
+### Change default options
 
 To change defaults, use this command: `sudo lpadmin -p [printer] -o [option]=[value]`. For example: `sudo lpadmin -p Follow-Me -o XRBannerSheet=None`
 
-## List available options 
+### List available options 
 
 Use `lpoptions -p [printer] -l`.
 
-## Notable options
+### Notable options
 
 | Option | Values | Description |
 |--------|--------|-------------|
@@ -36,11 +37,11 @@ Use `lpoptions -p [printer] -l`.
 
 More info [here](http://www.cups.org/documentation.php/doc-2.1/options.html?VERSION=2.1)
 
-## Discovering options
+### Discovering options
 
 This will allow you to make changes using a GUI, and find the right option.
 
-## Using GUI
+### Using GUI
 1. Open print dialog
 2. Create a preset
 3. execute `defaults read ~/Library/Preferences/com.apple.print.custompresets.forprinter.[printer].plist [preset] > before.txt`
@@ -49,7 +50,7 @@ This will allow you to make changes using a GUI, and find the right option.
 6. execute `defaults read ~/Library/Preferences/com.apple.print.custompresets.forprinter.[printer].plist [new_preset] > after.txt`
 7. See differences with `diff before.txt after.txt`
 
-## Using CUPS Web
+### Using CUPS Web
 
 I found it quite interesting to follow this:
 
@@ -59,9 +60,9 @@ I found it quite interesting to follow this:
 4. See differences with `diff before.txt after.txt`
 
 
-# Adding a printer
+## Adding a printer
 
-## Network Printer
+### Network Printer
 The command to install a printer is `lpadmin`. You will need to specify:
 - `-E` to Enable the destination and accept jobs
 - `-p [name]`: name of the printer
@@ -70,7 +71,7 @@ The command to install a printer is `lpadmin`. You will need to specify:
 - `-o [option]=[value]`: specify options
 
 
-### Example
+#### Example
 
 ```bash
 #!/bin/bash
