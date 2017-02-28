@@ -28,21 +28,17 @@ Source: [diskutil(8)](x-man-page://8/diskutil)
 Filesystems
 -----------
 
-========================================	==============================================	===========
-Acronym										Name											Description
-========================================	==============================================	===========
-APFS 										APFS                                            
-ExFAT										ExFAT                                           
-Free Space (or free)						Free Space                                      
-MS-DOS										MS-DOS (FAT)                                    
-MS-DOS FAT12								MS-DOS (FAT12)                                  
-MS-DOS FAT16								MS-DOS (FAT16)                                  
-MS-DOS FAT32 (or fat32)						MS-DOS (FAT)
-HFS+										Mac OS Extended                                 
-Case-sensitive HFS+ (or hfsx)				Mac OS Extended (Case-sensitive)
-Case-sensitive Journaled HFS+ (or jhfsx)	Mac OS Extended (Case-sensitive, Journaled)
-Journaled HFS+ (or jhfs+)					Mac OS Extended (Journaled)
-========================================	==============================================	===========
+- **APFS**: APFS                                            
+- **ExFAT**: ExFAT                                           
+- **Free Space (or free)**: Free Space                                      
+- **MS-DOS**: MS-DOS (FAT)                                    
+- **MS-DOS FAT12**: MS-DOS (FAT12)                                  
+- **MS-DOS FAT16**: MS-DOS (FAT16)                                  
+- **MS-DOS FAT32 (or fat32)**: MS-DOS (FAT)
+- **HFS+**: Mac OS Extended                                 
+- **Case-sensitive HFS+ (or hfsx)**: Mac OS Extended (Case-sensitive)
+- **Case-sensitive Journaled HFS+ (or jhfsx**: Mac OS Extended (Case-sensitive, Journaled)
+- **Journaled HFS+ (or jhfs+)**: Mac OS Extended (Journaled)
 
 Source: `diskutil(8) <x-man-page://8/diskutil>`
 `<x-man-page://8/diskutil>`
