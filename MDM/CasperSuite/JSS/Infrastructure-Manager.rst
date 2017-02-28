@@ -95,7 +95,7 @@ Create the correct user in JSS
 Create a Standard User that has only "Infrastructure Manager" role.
 
 .. image:: images/jamf-im-1.png
-.. image:: images/jamf-im-2.png)
+.. image:: images/jamf-im-2.png
 
 Launch the setup assistant
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,17 +104,17 @@ By installing the package, you'll launch the setup assistant.
 ``sudo dpkg -i jamf-im_1.0.0-0_all.deb``
 
 Enter the host for your cloud instance:
-.. image:: images/jamf-im-sa-5.png)
+.. image:: images/jamf-im-sa-5.png
 
 Enter the login and password you created earlier:
-.. image:: images/jamf-im-sa-4.png)
-.. image:: images/jamf-im-sa-3.png)
+.. image:: images/jamf-im-sa-4.png
+.. image:: images/jamf-im-sa-3.png
 
 Enter the public IP Address of your Infrastructure Manager server:
-.. image:: images/jamf-im-sa-2.png)
+.. image:: images/jamf-im-sa-2.png
 
 Setup the frequency. I use the default value of 30 seconds:
-.. image:: images/jamf-im-sa-1.png)
+.. image:: images/jamf-im-sa-1.png
 
 If everything goes well, you should see the following:
 ```
@@ -135,7 +135,7 @@ It's all downhill for now. Just kidding. This is the tricky part, as LDAP can be
 
 Make sure you choose the right port number. It should be >1024 and be reachable from internet to your public IP address.
 
-.. image:: images/jamf-im-ldap.png)
+.. image:: images/jamf-im-ldap.png
 
 
 Troubleshooting
@@ -157,6 +157,7 @@ LDAP Server needs authentication
 Infrastructure Manager cannot bind to address
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+::
 
     2016-08-30 14:43:16,834 INFO c.j.j.l.LpsServerSocketListener [lps: /13.93.87.150:31337 (ssl)] Sleeping for 5000 ms before retry of server socket bind for address /13.93.87.150:31337
     2016-08-30 14:43:21,835 INFO c.j.j.l.LpsServerSocketListener [lps: /13.93.87.150:31337 (ssl)] Waking for retry of server socket bind for address /13.93.87.150:31337
