@@ -4,6 +4,10 @@ Setup Assistant is also called "MacBuddy"
 
 ### Setup Assistant Steps
 
+| Test | Test2 |
+|------|-------|
+|Blah. | Blah2 |
+
 |Name|Log Short Name		| MDM Key 	| MDM Skippable? | File Trigger |
 |----|--------------------|------------|-----------------|--------------|
 |Choose Language|||No| | `/var/db/.AppleSetupDone`|
