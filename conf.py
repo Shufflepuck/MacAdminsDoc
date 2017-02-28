@@ -12,6 +12,8 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
+html_static_path = ['_static']
+
 master_doc = 'index'
 project = u'MacAdmins Community Documentation'
 copyright = u'GPL'
