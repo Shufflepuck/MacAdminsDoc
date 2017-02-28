@@ -41,9 +41,9 @@ Option              Values                          Description
 ==================  ==========================      =======================================
 printer_is_shared   true/false                      share printer 
 auth-info-required  "none"                          set to `negotiate` to allow Kerberos
-                    "username,password"
-                    "domain,username,password"
-                    or "negotiate" (Kerberos)
+                    "username,password"             
+                    "domain,username,password"      
+                    or "negotiate" (Kerberos)       
 media               Letter A4…                      See `here <http://www.cups.org/documentation.php/doc-2.1/options.html?VERSION=2.1>`_ for more info
 XRBannerSheet       *None AtStart                   On Xerox, displays the coverpage with Job ID
 ==================  ==========================      =======================================
