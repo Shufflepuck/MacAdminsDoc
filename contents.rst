@@ -6,4 +6,3 @@ test
    :glob:
    :caption: Jamf Pro
    MDM/jamfpro/index
-   MDM/CasperSuite/*
