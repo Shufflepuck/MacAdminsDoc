@@ -133,6 +133,7 @@ JSS
 .. warning:: Make sure you're using Java JDK 1.7. There's a known bug with JDK 1.8. Check on command-line with ``java -version``.
 
 .. code-block:: sh
+
     $ java -version
     java version "1.7.0_91"
     OpenJDK Runtime Environment (rhel-2.6.2.3.el7-x86_64 u91-b00)

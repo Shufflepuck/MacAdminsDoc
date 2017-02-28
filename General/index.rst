@@ -9,3 +9,4 @@
     macOS_Configuration/index
     Files_and_Storage/index
     Peripherals/index
+    Integration/index
