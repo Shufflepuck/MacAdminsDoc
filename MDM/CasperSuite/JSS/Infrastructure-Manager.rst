@@ -49,7 +49,8 @@ Java 1.8
 ^^^^^^^^^
 In an ideal world, you should download Java from `Oracle <http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>`_. Or better, you shouldn't use Java. 
 
-I found the best way to install Oracle Java 1.8 is doing the following: 
+I found the best way to install Oracle Java 1.8 is doing the following:
+
 .. code-block:: sh
 
     sudo add-apt-repository ppa:webupd8team/java
@@ -63,6 +64,7 @@ As this is a third-party repository, use it with caution, and only on test insta
 
 
 Test with `java -version` to see if it works.
+
 .. code-block:: sh
 
  $ java -version
@@ -82,7 +84,7 @@ JAMF Infrastructure Manager package
 I use ``scp`` to upload the binary to my server:
 
 .. code-block:: sh
- 
+
     cd ~/Downloads
     scp jamf-im_1.0.0-0_all.deb fti@13.93.87.150:
 
@@ -150,7 +152,10 @@ Log files are located here:
 
 LDAP Server needs authentication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    Error: javax.naming.NamingException: [LDAP: error code 1 - 000004DC: LdapErr: DSID-0C0906E8, comment: In order to perform this operation a successful bind must be completed on the connection., data 0, v1db1�]; remaining name 'OU=Org,DC=fti,DC=io'
+
+::
+
+    Error: javax.naming.NamingException: [LDAP: error code 1 - 000004DC: LdapErr: DSID-0C0906E8, comment: In order to perform this operation a successful bind must be completed on the connection., data 0, v1db1]; remaining name 'OU=Org,DC=fti,DC=io'
     Suggestion: No suggestion available
 
 
