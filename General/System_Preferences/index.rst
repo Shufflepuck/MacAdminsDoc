@@ -1,4 +1,4 @@
-macOS Installation
+System Preferences
 ******************
 
 .. toctree::
