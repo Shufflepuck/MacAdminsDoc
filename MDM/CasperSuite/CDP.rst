@@ -52,9 +52,9 @@ You need to create a IAM (Identity Access Management) group, user, and assign a 
 
 1. Navigate to IAM
 2. Create a group `jamf-group`
-2. Create a user `jamf-user`
-3. Assign the user `jamf-user` to the group `jamf-group`
-4. Create and assign policy `jamf-policy` (see below) to the group `jamf-group`
+3. Create a user `jamf-user`
+4. Assign the user `jamf-user` to the group `jamf-group`
+5. Create and assign policy `jamf-policy` (see below) to the group `jamf-group`
 
 With AWS CLI::
 
@@ -126,7 +126,7 @@ Your ``jamf-policy`` file:
     }
 
 
-.. note:: need to try to use "jamf*" as the ressource.
+.. note:: **TODO**: need to try to use "jamf*" as the ressource.
 
 JSS
 ^^^^
@@ -138,7 +138,7 @@ JSS
     OpenJDK Runtime Environment (rhel-2.6.2.3.el7-x86_64 u91-b00)
     OpenJDK 64-Bit Server VM (build 24.91-b01, mixed mode)
 
-.. tip:: Centos users: if you installed 1.8 by mistake, try `sudo yum swap java-1.8.0-openjdk.x86_64 java-1.7.0-openjdk.x86_64` then `sudo systemctl restart jamf.tomcat7.service` to restart the JSS. 
+.. tip:: Centos users: if you installed 1.8 by mistake, try ``sudo yum swap java-1.8.0-openjdk.x86_64 java-1.7.0-openjdk.x86_64`` then ``sudo systemctl restart jamf.tomcat7.service`` to restart the JSS. 
 
 1. Navigate to Settings > Computer Management > Cloud Distribution Point
 2. Enter all the relevant info you provided earlier.
