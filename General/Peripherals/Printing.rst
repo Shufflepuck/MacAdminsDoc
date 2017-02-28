@@ -37,16 +37,13 @@ Use ``lpoptions -p [printer] -l``.
 Notable options
 ^^^^^^^^^^^^^^^
 
-Option              Values                          Description
-==================  ==========================      =======================================
-printer_is_shared   true/false                      share printer 
-auth-info-required  "none"                          set to ``negotiate`` to allow Kerberos
-                    "username,password"             
-                    "domain,username,password"      
-                    or "negotiate" (Kerberos)       
-media               Letter A4…                      See `here <http://www.cups.org/documentation.php/doc-2.1/options.html?VERSION=2.1>`_ for more info
-XRBannerSheet       *None AtStart                   On Xerox, displays the coverpage with Job ID
-==================  ==========================      =======================================
+Option                  Values                          Description
+==================      ==========================      =======================================
+printer_is_shared       true/false                      share printer 
+auth-info-required      "none", "username,password", "domain,username,password", or "negotiate" (Kerberos)                          set to ``negotiate`` to allow Kerberos
+media                   Letter A4…                      See `here <http://www.cups.org/documentation.php/doc-2.1/options.html?VERSION=2.1>`_ for more info
+XRBannerSheet           *None AtStart                   On Xerox, displays the coverpage with Job ID
+==================      ==========================      =======================================
 
 More info `here <http://www.cups.org/documentation.php/doc-2.1/options.html?VERSION=2.1>`_
 
@@ -72,7 +69,7 @@ Using CUPS Web
 I found it quite interesting to follow this:
 
 1. ``lpoptions -p [printer] -l > before.txt``
-2. Make the changes on `<http://localhost:631/printers/](http://localhost:631/printers/>`_ > Printer > Set default Options
+2. Make the changes on `<http://localhost:631/printers/>`_ > Printer > Set default Options
 3. Run ``lpoptions -p [printer] -l > after.txt``
 4. See differences with ``diff before.txt after.txt``
 
