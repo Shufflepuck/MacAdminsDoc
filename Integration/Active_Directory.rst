@@ -26,30 +26,33 @@ Versions used:
 - NoMAD 1.0.2
 - macOS 10.12
 
-|                                | Enterprise Connect                               | NoMAD         | (Active Directory binding)        |
-|--------------------------------|--------------------------------------------------|---------------|-----------------------------------|
-| Vendor                         | Apple                                            | Open Source   | Apple                             |
-| Support                        | Supported by Apple PS as included in the engagement and/or AppleCare OS Support                | Support plans available    | Supported by AppleCare OS Support |
-| OS requirement                 | 10.9+                                            | 10.10+        | 10.3+                             |
-| Single Sign-On                 | Automatically                                    | Automatically | Only at login and screensaver     |
-| Password Expiration            | via Notification Center                          | via Notification Center     | Only at Login                     |
-| Password change                | via menu item                                    | via menu item          | via System Preferences or login window           |
-| Fine Grained Password Policy support | ~ (doesn't honor password expiration time) | √ | x
-| Quick links to getting support and software | x | √ | x
-| Support for changing passwords not using AD, e.g. a web-based password portal | x | √ | x
-| Password Synchronization       | Only when user is logged in                      | Only when user is logged in      | Automatic                         |
-| Home Network Share Automount        | √                | √          |                                   |
-| Network Share Automount        | √                 | Planned          |                                   |
-| Support for SSO on DFS shares  | No                                               | Planned       | No                                |
-| AD Binding required?           | No                                               | No            | Yes                               |
-| macOS native?                  | Uses Apple Frameworks                            | Uses Apple Frameworks         | macOS Native                      |
-| Script on password change      | √                                                | x            | x                                 |
-| Script on connection completed | √                                                | √            | x                                 |
-| Audit script                   | √                                                | Planned            | x                                 |
-| Distribution                   | single .pkg                                      | single .pkg              | macOS Native                      |
-| Configuration                  | via a Configuration Profile (and .plist)         | via a Configuration Profile (and .plist)              | multiple ways                     |
-| X509 Identity from CA          | x                                                | √             |                                   |
-| Maturity                       | Mature                                           | 1.0.2   |                                   |
-| Installation                   | Two-day on-site professional services engagement | None              | None                              |
-| Price                          | $5,500 (one-time fee)                                          | Free, Support plans available ($399 to $2,500 per year)         | Free                              |
-| Availability                   | Contact your local Apple Sales Rep               | http://nomad.menu        | macOS Native                        |
+=============================================================================   ===============================================================================     ========================================================    ==========================
+                                                                                Enterprise Connect                                                                  NoMAD                                                       (Active Directory binding)
+=============================================================================   ===============================================================================     ========================================================    ==========================
+Vendor                                                                          Apple                                                                               Open Source                                                 Apple
+Support                                                                         Supported by Apple PS as included in the engagement and/or AppleCare OS Support     Support plans available                                     Supported by AppleCare OS Support
+OS requirement                                                                  10.9+                                                                               10.10+                                                      10.3+
+Single Sign-On                                                                  Automatically                                                                       Automatically                                               Only at login and screensaver
+Password Expiration                                                             via Notification Center                                                             via Notification Center                                     Only at Login 
+Password change                                                                 via menu item                                                                       via menu item                                               via System Preferences or login window
+Fine Grained Password Policy support                                            ~ (doesn't honor password expiration time)                                          √                                                           x
+Quick links to getting support and software                                     x                                                                                   √                                                           x
+Support for changing passwords not using AD, e.g. a web-based password portal   x                                                                                   √                                                           x
+Password Synchronization                                                        Only when user is logged in                                                         Only when user is logged in                                 Automatic
+Home Network Share Automount                                                    √                                                                                   √                                                           x
+Network Share Automount                                                         √                                                                                   Planned                                                     x
+Support for SSO on DFS shares                                                   x                                                                                   Planned                                                     x 
+AD Binding required?                                                            x                                                                                   x                                                           √ 
+macOS native?                                                                   Uses Apple Frameworks                                                               Uses Apple Frameworks                                       macOS Native
+Script on password change                                                       √                                                                                   x                                                           x
+Script on connection completed                                                  √                                                                                   √                                                           x
+Audit script                                                                    √                                                                                   Planned                                                     x
+Distribution                                                                    single .pkg                                                                         single .pkg                                                 macOS Native
+Configuration                                                                   via a Configuration Profile (and .plist)                                            via a Configuration Profile (and .plist)                    multiple ways
+X509 Identity from CA                                                           x                                                                                   √                                                           Mature
+Maturity                                                                        Mature                                                                              1.0.2                                                       x
+Installation                                                                    Two-day on-site professional services engagement                                    None                                                        None
+Price                                                                           $5,500 (one-time fee)                                                               Free, Support plans available ($399 to $2,500 per year)     Free
+Availability                                                                    Contact your local Apple Sales Rep                                                  http://nomad.menu                                           macOS Native
+=============================================================================   ===============================================================================     ========================================================    ==========================
+
