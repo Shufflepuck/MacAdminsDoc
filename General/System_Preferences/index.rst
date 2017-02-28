@@ -1,5 +1,5 @@
-System Preferences
-******************
+macOS Configuration
+*******************
 
 .. toctree::
     :maxdepth: 1

@@ -1,4 +1,4 @@
-macOS Installation
+Files and Storage
 ******************
 
 .. toctree::
