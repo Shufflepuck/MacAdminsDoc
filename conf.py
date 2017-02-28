@@ -6,6 +6,10 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
+master_doc = 'index'
+project = u'MacAdmins Community Documentation'
+copyright = u'GPL'
+
 html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "Shufflepuck", # Username
