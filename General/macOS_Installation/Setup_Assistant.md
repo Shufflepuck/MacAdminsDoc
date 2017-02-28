@@ -4,9 +4,111 @@ Setup Assistant is also called "MacBuddy"
 
 ### Setup Assistant Steps
 
-| Test | Test2 |
-|------|-------|
-|Blah. | Blah2 |
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Log Short Name</th>
+<th>MDM Key</th>
+<th>MDM Skippable?</th>
+<th>File Trigger</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Choose Language</td>
+<td></td>
+<td></td>
+<td>No</td>
+<td></td>
+</tr>
+<tr>
+<td>Select Keyboard</td>
+<td>SelectKeyboard</td>
+<td></td>
+<td>No</td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Network Setup</td>
+<td>SelectWiFiNetwork</td>
+<td></td>
+<td>No</td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Transfer Data</td>
+<td>MigrationWelcome</td>
+<td>Restore</td>
+<td>Yes </td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Location Services</td>
+<td>EnableCoreLocation</td>
+<td>Location</td>
+<td>Yes </td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Apple ID and iCloud Sign-in</td>
+<td>iCloudLogin</td>
+<td>AppleID</td>
+<td>Yes </td>
+<td><code>com.apple.SetupAssistant.plist</code></td>
+</tr>
+<tr>
+<td>Terms and Conditions</td>
+<td>LicenseViewer</td>
+<td>TOS</td>
+<td>Yes </td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Create User Account</td>
+<td>CreateUserAccount</td>
+<td></td>
+<td>Yes*</td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Automatically sending diagnostic information</td>
+<td>DiagnosticsAndUsage</td>
+<td>Diagnostics</td>
+<td>Yes </td>
+<td><code>com.apple.SetupAssistant.plist</code></td>
+</tr>
+<tr>
+<td>Siri</td>
+<td>EnableSiri</td>
+<td>Siri</td>
+<td>Yes </td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Touch ID</td>
+<td></td>
+<td>Biometric</td>
+<td>Yes</td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Apple Pay</td>
+<td></td>
+<td>Payment</td>
+<td>Yes</td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+<tr>
+<td>Setting Up Your Mac</td>
+<td>SettingUpYourMac</td>
+<td></td>
+<td>No</td>
+<td><code>/var/db/.AppleSetupDone</code></td>
+</tr>
+</tbody>
+</table>
 
 |Name|Log Short Name		| MDM Key 	| MDM Skippable? | File Trigger |
 |----|--------------------|------------|-----------------|--------------|

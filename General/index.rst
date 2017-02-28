@@ -6,5 +6,5 @@
     *
     Packaging/index 
     macOS_Installation/index
-    System_Preferences/index
+    macOS_Configuration/index
     Files_and_Storage/index
