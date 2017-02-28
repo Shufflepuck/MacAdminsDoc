@@ -35,3 +35,4 @@ _MacAdmins Doc_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0
    :caption: Jamf Pro
 
    MDM/jamfpro/index
+   MDM/CasperSuite/index
