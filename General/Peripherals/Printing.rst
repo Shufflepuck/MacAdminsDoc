@@ -37,8 +37,9 @@ Use ``lpoptions -p [printer] -l``.
 Notable options
 ^^^^^^^^^^^^^^^
 
+==================      ======================================================================================      =======================================
 Option                  Values                          Description
-==================      ==========================      =======================================
+==================      ======================================================================================      =======================================
 printer_is_shared       true/false                      share printer 
 auth-info-required      "none", "username,password", "domain,username,password", or "negotiate" (Kerberos)                          set to ``negotiate`` to allow Kerberos
 media                   Letter A4…                      See `here <http://www.cups.org/documentation.php/doc-2.1/options.html?VERSION=2.1>`_ for more info
