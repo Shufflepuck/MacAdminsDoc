@@ -58,7 +58,7 @@ It features awesome new and improved features such as:
 - Atomic Safe-Save
 
 
-Rich Trouton did a very interesting talk at MacAdUk. Grab it [here](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit).
+Rich Trouton did a very interesting talk at MacAdUk. Grab it `here <https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit>`_.
 
 Source: `APFS Guide <https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999-CH1-DontLinkElementID_18>`_
 
