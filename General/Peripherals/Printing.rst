@@ -93,68 +93,69 @@ The command to install a printer is `lpadmin`. You will need to specify:
 Example
 """"""""
 
-```bash
-#!/bin/bash
-#
-# Installs printer, using Xerox Drivers (Xerox_Print_Driver_3.52.0.pkg)
-# 
+.. highlight:: bash
 
-readonly LPSTAT='/usr/bin/lpstat'
-readonly LPADMIN='/usr/sbin/lpadmin'
-readonly CUPSENABLE='/usr/sbin/cupsenable'
-readonly CUPSACCEPT='/usr/sbin/cupsaccept'
+    #!/bin/bash
+    #
+    # Installs printer, using Xerox Drivers (Xerox_Print_Driver_3.52.0.pkg)
+    # 
+    
+    readonly LPSTAT='/usr/bin/lpstat'
+    readonly LPADMIN='/usr/sbin/lpadmin'
+    readonly CUPSENABLE='/usr/sbin/cupsenable'
+    readonly CUPSACCEPT='/usr/sbin/cupsaccept'
+    
+    
+    #######################################
+    # Add printers using cups
+    # Globals:
+    #   LPSTAT
+    #   LPADMIN
+    #   CUPSENABLE
+    #   CUPSACCEPT
+    # Arguments:
+    #   name
+    #   uri
+    #   ppd
+    # Returns:
+    #   None
+    #######################################
+    
+    add_printer() {
+    
+      local name="$1"
+      local uri="$2"
+      local ppd="$3"
+    
+      if ! ${LPADMIN} -E -p "${name}" \
+        -v "${uri}" \
+        -P "${ppd}" \
+        -o printer_is_shared=false \
+        -o auth-info-required=negotiate \
+        -o XRBannerSheet=None \
+        -o media=iso_a4_210x297mm; then
+          echo "ERROR: ${name}: Unable to lpadmin (add printer)" >&2
+          exit -1
+      fi
+      
+      # cupsaccept and cupsenable are not needed before of '-E'. I don't remember why I included them.
+      if ! ${CUPSACCEPT} "${name}"; then
+        echo "ERROR: ${name}: Unable to cupsaccept." >&2
+        exit -1
+      fi
+    
+      if ! ${CUPSENABLE} "${name}"; then
+        echo "ERROR: ${name}: Unable to cupsenable." >&2
+        exit -1
+      fi
+    }
+    
+    if (! ${LPSTAT} -v "Follow-Me"); then
+      add_printer "Follow-Me" \
+                  "smb://printserver.fti.io/Follow-Me%20Xerox%20(PCL6)" \
+                  "/Library/Printers/PPDs/Contents/Resources/Xerox WC 7545.gz"
+    fi
+    
+    
+    exit 0
 
-
-#######################################
-# Add printers using cups
-# Globals:
-#   LPSTAT
-#   LPADMIN
-#   CUPSENABLE
-#   CUPSACCEPT
-# Arguments:
-#   name
-#   uri
-#   ppd
-# Returns:
-#   None
-#######################################
-
-add_printer() {
-
-  local name="$1"
-  local uri="$2"
-  local ppd="$3"
-
-  if ! ${LPADMIN} -E -p "${name}" \
-    -v "${uri}" \
-    -P "${ppd}" \
-    -o printer_is_shared=false \
-    -o auth-info-required=negotiate \
-    -o XRBannerSheet=None \
-    -o media=iso_a4_210x297mm; then
-      echo "ERROR: ${name}: Unable to lpadmin (add printer)" >&2
-      exit -1
-  fi
-  
-  # cupsaccept and cupsenable are not needed before of '-E'. I don't remember why I included them.
-  if ! ${CUPSACCEPT} "${name}"; then
-    echo "ERROR: ${name}: Unable to cupsaccept." >&2
-    exit -1
-  fi
-
-  if ! ${CUPSENABLE} "${name}"; then
-    echo "ERROR: ${name}: Unable to cupsenable." >&2
-    exit -1
-  fi
-}
-
-if (! ${LPSTAT} -v "Follow-Me"); then
-  add_printer "Follow-Me" \
-              "smb://printserver.fti.io/Follow-Me%20Xerox%20(PCL6)" \
-              "/Library/Printers/PPDs/Contents/Resources/Xerox WC 7545.gz"
-fi
-
-
-exit 0
-```
