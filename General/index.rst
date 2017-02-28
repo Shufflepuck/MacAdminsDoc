@@ -4,4 +4,4 @@
     :glob:
 
     *
-    */*
+    Packaging/index 
