@@ -130,7 +130,6 @@ Your ``jamf-policy`` file:
 
 JSS
 ^^^^
-.. warning:: Make sure you're using Java JDK 1.7. There's a known bug with JDK 1.8. Check on command-line with ``java -version``.
 
 .. code-block:: sh
 
