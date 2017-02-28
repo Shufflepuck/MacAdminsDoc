@@ -68,5 +68,6 @@ _MacAdmins Doc_ is licensed under a `Creative Commons Attribution-ShareAlike 4.0
 .. toctree::
    :maxdepth: 2
    :caption: Integration
+   :titlesonly:
    
    Integration/index
