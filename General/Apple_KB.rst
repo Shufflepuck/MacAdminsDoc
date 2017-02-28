@@ -1,469 +1,469 @@
 Apple Support Knowledge Base
 ============================
 
-- `Edit and Share 4K video with iMovie - Apple Support <https://support.apple.com/en-us/HT205345>`_
-- `Edit and Share Video at 60 frames per second in iMovie - Apple Support <https://support.apple.com/en-us/HT205346>`_
-- `How to delete an app that has a configuration profile on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT205347>`_
-- `Change the name of a Bluetooth device - Apple Support <https://support.apple.com/en-us/HT205348>`_
-- `If an external display doesn't work with your MacBook Pro (Retina, 15-inch, Mid 2015) or MacBook Air (11-inch, Early 2015) running OS X El Capitan v10.11 - Apple Support <https://support.apple.com/en-us/HT205351>`_
-- `Get help with resetting your iPhone - Apple Support <https://support.apple.com/en-us/HT205352>`_
-- `About the App Store on your Apple TV (4th generation) - Apple Support <https://support.apple.com/en-us/HT205354>`_
-- `If you can’t use your Photos library in other apps - Apple Support <https://support.apple.com/en-us/HT205355>`_
-- `About the OS X El Capitan v10.11.3 Update - Apple Support <https://support.apple.com/en-us/HT205356>`_
-- `Set up your Apple TV (4th generation) - Apple Support <https://support.apple.com/en-us/HT205358>`_
-- `Enter your account information again when changing the YouTube share destination in Final Cut Pro - Apple Support <https://support.apple.com/en-us/HT205359>`_
-- `About the OS X El Capitan v10.11.1 Update - Apple Support <https://support.apple.com/en-us/HT205360>`_
-- `About OS X Server 5.0.15 - Apple Support <https://support.apple.com/en-us/HT205361>`_
-- `Set up Find My iPhone, iPad, Apple Watch, and Mac - Apple Support <https://support.apple.com/en-us/HT205362>`_
-- `Manage your Apple Music membership if you’re using an Android phone - Apple Support <https://support.apple.com/en-us/HT205364>`_
-- `Join Apple Music on your Android phone - Apple Support <https://support.apple.com/en-us/HT205365>`_
-- `Get help with Apple Music on Android - Apple Support <https://support.apple.com/en-us/HT205366>`_
-- `View the Holidays calendar for other regions - Apple Support <https://support.apple.com/en-us/HT205367>`_
-- `About the security content of iOS 9.1 - Apple Support <https://support.apple.com/en-us/HT205370>`_
-- `If your Apple Watch won't charge or it won't turn on - Apple Support <https://support.apple.com/en-us/HT205371>`_
-- `About the security content of iTunes 12.3.1 - Apple Support <https://support.apple.com/en-us/HT205372>`_
-- `About the security content of Keynote 6.6, Pages 5.6, Numbers 3.6, and iWork for iOS 2.6 - Apple Support <https://support.apple.com/en-us/HT205373>`_
-- `About the security content of OS X El Capitan 10.11.1, Security Update 2015-004 Yosemite, and Security Update 2015-007 Mavericks - Apple Support <https://support.apple.com/en-us/HT205375>`_
-- `About the security content of OS X Server 5.0.15 - Apple Support <https://support.apple.com/en-us/HT205376>`_
-- `About the security content of Safari 9.0.1 - Apple Support <https://support.apple.com/en-us/HT205377>`_
-- `About the security content of watchOS 2.0.1 - Apple Support <https://support.apple.com/en-us/HT205378>`_
-- `About the security content of Xcode 7.1 - Apple Support <https://support.apple.com/en-us/HT205379>`_
-- `If custom alert sounds don't appear after upgrading to El Capitan - Apple Support <https://support.apple.com/en-us/HT205380>`_
-- `If your country or region doesn't have Google Play, download the Apple Music app from the Apple website - Apple Support <https://support.apple.com/en-us/HT205381>`_
-- ` If some email messages or mailboxes are missing in Mail after upgrading to El Capitan - Apple Support <https://support.apple.com/en-us/HT205382>`_
-- `Charge your Siri Remote or Apple TV Remote - Apple Support <https://support.apple.com/en-us/HT205384>`_
-- `About Apple Configurator 2.1 - Apple Support <https://support.apple.com/en-us/HT205385>`_
-- `If a project you created in iPhoto shows empty frames in Photos for OS X - Apple Support <https://support.apple.com/en-us/HT205387>`_
-- `Email photos from iPhoto with your account that uses two-step verification - Apple Support <https://support.apple.com/en-us/HT205390>`_
-- `Import and export different file formats with Numbers - Apple Support <https://support.apple.com/en-us/HT205391>`_
-- `If you can't sign in with your Apple ID after you upgrade to iOS 9 - Apple Support <https://support.apple.com/en-us/HT205394>`_
-- `If you can't download iTunes for Windows using Microsoft Edge - Apple Support <https://support.apple.com/en-us/HT205395>`_
-- `Create and manage your music collection in Apple Music on Android - Apple Support <https://support.apple.com/en-us/HT205397>`_
-- `Create interlaced H.264 files in Final Cut Pro X and Compressor - Apple Support <https://support.apple.com/en-us/HT205398>`_
-- `Update your iPad Pro (9.7-inch) from iOS 9.3 or 9.3.1 to iOS 9.3.2 or later - Apple Support <https://support.apple.com/en-us/HT205399>`_
-- `Guest mode isn't available with some IPv6 configurations on AirPort devices - Apple Support <https://support.apple.com/en-us/HT205403>`_
-- `About iPad keyboard - Apple Support <https://support.apple.com/en-us/HT205408>`_
-- `Check the status of your library in Photos for macOS - Apple Support <https://support.apple.com/en-us/HT205409>`_
-- `About APN and Cellular profile payloads in Apple Configurator 2.1 - Apple Support <https://support.apple.com/en-us/HT205410>`_
-- `Restore previous versions of iWork documents stored on iCloud Drive - Apple Support <https://support.apple.com/en-us/HT205411>`_
-- `If inline images are missing from wiki pages hosted from OS X Server 5 - Apple Support <https://support.apple.com/en-us/HT205428>`_
-- `Charge your iPhone with your Smart Battery Case - Apple Support <https://support.apple.com/en-us/HT205443>`_
-- `About Apple TV (4th generation) software updates - Apple Support <https://support.apple.com/en-us/HT205444>`_
-- `Use VoiceOver on Apple TV (4th generation) - Apple Support <https://support.apple.com/en-us/HT205454>`_
-- `Set up your devices to use two-factor authentication - Apple Support <https://support.apple.com/en-us/HT205520>`_
-- `Change the watch face on your Apple Watch - Apple Support <https://support.apple.com/en-us/HT205536>`_
-- `How to use your Apple Watch without your iPhone nearby - Apple Support <https://support.apple.com/en-us/HT205547>`_
-- `Switch between apps using the Dock on your Apple Watch - Apple Support <https://support.apple.com/en-us/HT205548>`_
-- `Use your Apple Watch as a remote control for your Apple TV or iTunes - Apple Support <https://support.apple.com/en-us/HT205549>`_
-- `Status icons on Apple Watch - Apple Support <https://support.apple.com/en-us/HT205550>`_
-- `Change the brightness and text size on your Apple Watch  - Apple Support <https://support.apple.com/en-us/HT205551>`_
-- `About your Apple Watch - Apple Support <https://support.apple.com/en-us/HT205552>`_
-- `About the OS X El Capitan v10.11.2 Update - Apple Support <https://support.apple.com/en-us/HT205579>`_
-- `If XAVC-S media from your Sony camera appears blank in iMovie for Mac - Apple Support <https://support.apple.com/en-us/HT205580>`_
-- `Manage the cards that you use with Apple Pay - Apple Support <https://support.apple.com/en-us/HT205583>`_
-- `Charge your Apple Watch using the Apple Watch Magnetic Charging Dock - Apple Support <https://support.apple.com/en-us/HT205594>`_
-- `Apple Music and Family Sharing - Apple Support <https://support.apple.com/en-us/HT205595>`_
-- `If you see error -54 when you sync with iTunes - Apple Support <https://support.apple.com/en-us/HT205597>`_
-- `If your iPhone, iPad, or iPod touch won't turn on - Apple Support <https://support.apple.com/en-us/HT205599>`_
-- `Update the firmware for your Kirkland Signature hearing aids - Apple Support <https://support.apple.com/en-us/HT205603>`_
-- `If CoreAudioToolbox.dll is listed in the problem details when iTunes for Windows stops working - Apple Support <https://support.apple.com/en-us/HT205609>`_
-- `If still images are solid green or black in the iMovie Viewer - Apple Support <https://support.apple.com/en-us/HT205625>`_
-- `If you see error 53 and your iPhone or iPad gets stuck on the 'Connect to iTunes' screen - Apple Support <https://support.apple.com/en-us/HT205628>`_
-- `Using Apple Music on Sonos - Apple Support <https://support.apple.com/en-us/HT205629>`_
-- `Get help adding cards to Apple Pay - Apple Support <https://support.apple.com/en-us/HT205630>`_
-- `Changes to iTunes U course material storage locations - Apple Support <https://support.apple.com/en-us/HT205631>`_
-- `If you're missing Health data after restoring from an iCloud backup you made with iOS 9 - Apple Support <https://support.apple.com/en-us/HT205632>`_
-- `Set up CarPlay with your iPhone - Apple Support <https://support.apple.com/en-us/HT205634>`_
-- `About the security content of iOS 9.2 - Apple Support <https://support.apple.com/en-us/HT205635>`_
-- `About the security content of iTunes 12.3.2 - Apple Support <https://support.apple.com/en-us/HT205636>`_
-- `About the security content of OS X El Capitan 10.11.2, Security Update 2015-005 Yosemite, and Security Update 2015-008 Mavericks - Apple Support <https://support.apple.com/en-us/HT205637>`_
-- `About the security content of QuickTime 7.7.9 - Apple Support <https://support.apple.com/en-us/HT205638>`_
-- `About the security content of Safari 9.0.2 - Apple Support <https://support.apple.com/en-us/HT205639>`_
-- `About the security content of tvOS 9.1 - Apple Support <https://support.apple.com/en-us/HT205640>`_
-- `About the security content of watchOS 2.1 - Apple Support <https://support.apple.com/en-us/HT205641>`_
-- `About the security content of Xcode 7.2 - Apple Support <https://support.apple.com/en-us/HT205642>`_
-- `About EMV and Apple Pay for merchants - Apple Support <https://support.apple.com/en-us/HT205645>`_
-- `If Photos for OS X stops responding when you create a card - Apple Support <https://support.apple.com/en-us/HT205647>`_
-- `If your iPhone, iPad, or iPod touch won't turn on - Apple Support <https://support.apple.com/en-us/HT205648>`_
-- `Printer and scanner software available for download for OS X Lion - Apple Support <https://support.apple.com/en-us/HT205649>`_
-- `Share files between macOS and Windows on the same Mac - Apple Support <https://support.apple.com/en-us/HT205650>`_
-- `About the security content of Security Update 2015-006 Yosemite - Apple Support <https://support.apple.com/en-us/HT205653>`_
-- `If apps don't finish installing with Mobile Device Management (MDM) and iOS 9.2 - Apple Support <https://support.apple.com/en-us/HT205654>`_
-- `Ergonomics - Apple Support <https://support.apple.com/en-us/HT205655>`_
-- `If you see the 'This app cannot be assigned to a device' alert in Configurator 2 - Apple Support <https://support.apple.com/en-us/HT205656>`_
-- `Take and edit photos with your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT205659>`_
-- `Use a Baum VarioUltra display with VoiceOver - Apple Support <https://support.apple.com/en-us/HT205661>`_
-- `Clean the keyboard of your MacBook (Retina, 12-inch, Early 2015) and later - Apple Support <https://support.apple.com/en-us/HT205662>`_
-- `If you're asked to let Apple Music manage calls on your Android phone - Apple Support <https://support.apple.com/en-us/HT205665>`_
-- `If you get an alert from BTK in Turkey saying that your IMEI isn't registered - Apple Support <https://support.apple.com/en-us/HT205673>`_
-- `Change the shipping address for print product orders in Photos for macOS - Apple Support <https://support.apple.com/en-us/HT205701>`_
-- `About the Mac App Store Update for OS X Snow Leopard - Apple Support <https://support.apple.com/en-us/HT205702>`_
-- `Manage your photo and video storage - Apple Support <https://support.apple.com/en-us/HT205703>`_
-- `If your Xsan volume doesn't automatically mount at startup - Apple Support <https://support.apple.com/en-us/HT205706>`_
-- `If you see an error in iTunes on your Mac or PC - Apple Support <https://support.apple.com/en-us/HT205724>`_
-- `If your iPhone 6s or iPhone 6s Plus battery percentage doesn't update - Apple Support <https://support.apple.com/en-us/HT205727>`_
-- `If your iPad Pro wakes unexpectedly when connected to a Smart Keyboard - Apple Support <https://support.apple.com/en-us/HT205728>`_
-- `About the security content of tvOS 9.1.1 - Apple Support <https://support.apple.com/en-us/HT205729>`_
-- `About the security content of Safari 9.0.3 - Apple Support <https://support.apple.com/en-us/HT205730>`_
-- `About the security content of OS X El Capitan 10.11.3 and Security Update 2016-001 - Apple Support <https://support.apple.com/en-us/HT205731>`_
-- `About the security content of iOS 9.2.1 - Apple Support <https://support.apple.com/en-us/HT205732>`_
-- `Topics for the ACMT 2016 Mac Service Certification Exam (MAC-16A) - Apple Support <https://support.apple.com/en-us/HT205733>`_
-- `Courses to study for the ACMT 2016 Mac Service Certification Exam (MAC-16A) - Apple Support <https://support.apple.com/en-us/HT205734>`_
-- `Topics for the ACiT 2016 iOS Service Certification Exam (iOS-16A) - Apple Support <https://support.apple.com/en-us/HT205735>`_
-- `Courses to study for the ACiT 2016 iOS Service Certification Exam (iOS-16A) - Apple Support <https://support.apple.com/en-us/HT205736>`_
-- `Topics for the Apple Service Fundamentals Exam (SVC-16A) - Apple Support <https://support.apple.com/en-us/HT205737>`_
-- `Courses to study for the Apple Service Fundamentals Exam (SVC-16A) - Apple Support <https://support.apple.com/en-us/HT205738>`_
-- `Exams and courses that you need to service iOS products - Apple Support <https://support.apple.com/en-us/HT205739>`_
-- `Find audio-described content in the iTunes Store - Apple Support <https://support.apple.com/en-us/HT205742>`_
-- `About iCloud Photo Library and My Photo Stream - Apple Support <https://support.apple.com/en-us/HT205743>`_
-- `Apple FIPS Cryptographic Modules v6.0 for iOS 9 - Apple Support <https://support.apple.com/en-us/HT205745>`_
-- `How do I accept Apple Pay in my store - Apple Support <https://support.apple.com/en-us/HT205747>`_
-- `Apple FIPS Cryptographic Modules v6.0 for OS X El Capitan v10.11 - Apple Support <https://support.apple.com/en-us/HT205748>`_
-- `Set up your new Mac - Apple Support <https://support.apple.com/en-us/HT205749>`_
-- `About the OS X El Capitan v10.11.4 Update - Apple Support <https://support.apple.com/en-us/HT205750>`_
-- `Use iCloud Drive or iBooks to access your PDF files, ePub files, and books - Apple Support <https://support.apple.com/en-us/HT205751>`_
-- `Merchant training for Apple Pay - Apple Support <https://support.apple.com/en-us/HT205752>`_
-- `If installation of Windows 10 on your Mac stops at RealTek software - Apple Support <https://support.apple.com/en-us/HT205753>`_
-- `Keep your contacts up to date on all of your devices with iCloud - Apple Support <https://support.apple.com/en-us/HT205754>`_
-- `Stop older Apple Remotes from controlling your Apple TV (4th generation) - Apple Support <https://support.apple.com/en-us/HT205757>`_
-- `Where to get answers about your Mac - Apple Support <https://support.apple.com/en-us/HT205758>`_
-- `Apple security updates (2013) - Apple Support <https://support.apple.com/en-us/HT205759>`_
-- `If user profiles don't finish installing after updating to OS X Server 5.0.15 - Apple Support <https://support.apple.com/en-us/HT205760>`_
-- `Change the SMB connection limit in OS X Server 5 - Apple Support <https://support.apple.com/en-us/HT205761>`_
-- `Apple security updates (2014) - Apple Support <https://support.apple.com/en-us/HT205762>`_
-- `Help your child set up an iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT205763>`_
-- `Import XF and XF-AVC media from Canon cameras with Final Cut Pro X  - Apple Support <https://support.apple.com/en-us/HT205764>`_
-- `If Time Machine doesn't appear correctly on one of your Mac displays  - Apple Support <https://support.apple.com/en-us/HT205766>`_
-- `If you can’t send an email in the Mail app, because the compose window disappears and reappears - Apple Support <https://support.apple.com/en-us/HT205769>`_
-- `Control VoiceOver with Trackpad Commander - Apple Support <https://support.apple.com/en-us/HT205770>`_
-- `Uninstall QuickTime 7 for Windows - Apple Support <https://support.apple.com/en-us/HT205771>`_
-- `Use Notes on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT205773>`_
-- `Read and reply to messages with your Apple Watch - Apple Support <https://support.apple.com/en-us/HT205783>`_
-- `If you see a “Windows installer package” error message when you try to uninstall iTunes from your PC - Apple Support <https://support.apple.com/en-us/HT205788>`_
-- `Import Music Memos recordings into Logic Pro X - Apple Support <https://support.apple.com/en-us/HT205789>`_
-- `Use more than one Apple Watch with your iPhone - Apple Support <https://support.apple.com/en-us/HT205792>`_
-- `Import your notes and files to the Notes app - Apple Support <https://support.apple.com/en-us/HT205793>`_
-- `Keep your notes secure with password-protection - Apple Support <https://support.apple.com/en-us/HT205794>`_
-- `About the security content of Apple TV 7.2.1 - Apple Support <https://support.apple.com/en-us/HT205795>`_
-- `Turn on audio descriptions on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT205796>`_
-- `Turn on audio descriptions on iPod nano - Apple Support <https://support.apple.com/en-us/HT205797>`_
-- `Turn on audio descriptions in iTunes for Windows - Apple Support <https://support.apple.com/en-us/HT205798>`_
-- `Turn on audio descriptions on your Apple TV - Apple Support <https://support.apple.com/en-us/HT205799>`_
-- `Turn on audio descriptions on your Mac - Apple Support <https://support.apple.com/en-us/HT205800>`_
-- `Create an album from a project in Photos for OS X - Apple Support <https://support.apple.com/en-us/HT205804>`_
-- `About Apple USB-C to Lightning cable - Apple Support <https://support.apple.com/en-us/HT205807>`_
-- `Be productive on your new Mac - Apple Support <https://support.apple.com/en-us/HT205854>`_
-- `Delete photos on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT205856>`_
-- `About the USB-C Multiport Adapter Update 1.0 - Apple Support <https://support.apple.com/en-us/HT205858>`_
-- `Use Reminders on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT205890>`_
-- `Hide photos on your iPhone, iPad, iPod touch, or Mac - Apple Support <https://support.apple.com/en-us/HT205891>`_
-- `If you can't open or save changes to a shared file - Apple Support <https://support.apple.com/en-us/HT205892>`_
-- `If your Alchemy window doesn't show presets - Apple Support <https://support.apple.com/en-us/HT205895>`_
-- `Automatically assign MIDI controller knobs, sliders, and other controls with Logic Pro X 10.2.2 - Apple Support <https://support.apple.com/en-us/HT205896>`_
-- `Get help with missing photos - Apple Support <https://support.apple.com/en-us/HT205912>`_
-- `About Managed Apple IDs for education - Apple Support <https://support.apple.com/en-us/HT205918>`_
-- `Get your music collection on all of your devices - Apple Support <https://support.apple.com/en-us/HT205919>`_
-- `If you see error -5000, -69, 13010, or 13014 when you sync music in iTunes - Apple Support <https://support.apple.com/en-us/HT205922>`_
-- `Turn off packet signing for SMB 2 and SMB 3 connections - Apple Support <https://support.apple.com/en-us/HT205926>`_
-- `If GarageBand for Mac won't open or play back your project - Apple Support <https://support.apple.com/en-us/HT205927>`_
-- `Get an Apple Music Student Membership - Apple Support <https://support.apple.com/en-us/HT205928>`_
-- `If GarageBand for iOS won't open or playback your project - Apple Support <https://support.apple.com/en-us/HT205929>`_
-- `Read along with iBooks StoryTime on Apple TV - Apple Support <https://support.apple.com/en-us/HT205930>`_
-- `Get help with the Photos app on your Mac - Apple Support <https://support.apple.com/en-us/HT205966>`_
-- `About the Multithreading setting in Logic Pro X - Apple Support <https://support.apple.com/en-us/HT205975>`_
-- `ATLAS frequently asked questions - Apple Support <https://support.apple.com/en-us/HT206048>`_
-- `If the built-in display on your MacBook Pro (Retina, 15-inch, Mid 2015) doesn't turn on - Apple Support <https://support.apple.com/en-us/HT206087>`_
-- `About the security content of Apple Software Update 2.2 - Apple Support <https://support.apple.com/en-us/HT206091>`_
-- `How to get a Tech ID - Apple Support <https://support.apple.com/en-us/HT206138>`_
-- `Change your payment method from ClickandBuy - Apple Support <https://support.apple.com/en-us/HT206142>`_
-- `About OS X Server 5.1 - Apple Support <https://support.apple.com/en-us/HT206145>`_
-- `About Classroom 1.1.2 - Apple Support <https://support.apple.com/en-us/HT206151>`_
-- `If you see a "VPN Using PPTP May Not Be Secure" alert - Apple Support <https://support.apple.com/en-us/HT206152>`_
-- `About Configurator 2.2 - Apple Support <https://support.apple.com/en-us/HT206153>`_
-- `VPN Key Exchange Enhancements in iOS 9.3, OS X 10.11.4 and Server 5.1 - Apple Support <https://support.apple.com/en-us/HT206154>`_
-- `Get help with iMovie - Apple Support <https://support.apple.com/en-us/HT206157>`_
-- `About subscriptions in Apple News - Apple Support <https://support.apple.com/en-us/HT206158>`_
-- `About the security content of iOS 9.3 - Apple Support <https://support.apple.com/en-us/HT206166>`_
-- `About the security content of OS X El Capitan v10.11.4 and Security Update 2016-002 - Apple Support <https://support.apple.com/en-us/HT206167>`_
-- `About the security content of watchOS 2.2 - Apple Support <https://support.apple.com/en-us/HT206168>`_
-- `About the security content of tvOS 9.2 - Apple Support <https://support.apple.com/en-us/HT206169>`_
-- `How to download content from the cloud when using Optimized Storage - Apple Support <https://support.apple.com/en-us/HT206170>`_
-- `About the security content of Safari 9.1 - Apple Support <https://support.apple.com/en-us/HT206171>`_
-- `About the security content of Xcode 7.3 - Apple Support <https://support.apple.com/en-us/HT206172>`_
-- `About the security content of OS X Server 5.1 - Apple Support <https://support.apple.com/en-us/HT206173>`_
-- `About the macOS Sierra 10.12.1 update - Apple Support <https://support.apple.com/en-us/HT206174>`_
-- `Languages supported by VoiceOver - Apple Support <https://support.apple.com/en-us/HT206175>`_
-- `About Apple Remote Desktop Client 3.8.5 - Apple Support <https://support.apple.com/en-us/HT206178>`_
-- `If OS X Server 3 and earlier doesn't display recent VPP purchases - Apple Support <https://support.apple.com/en-us/HT206179>`_
-- `About collaboration for Pages, Numbers, and Keynote - Apple Support <https://support.apple.com/en-us/HT206181>`_
-- `Add a song to a playlist in Apple Music without adding it to your library - Apple Support <https://support.apple.com/en-us/HT206183>`_
-- `Set up your document in Pages - Apple Support <https://support.apple.com/en-us/HT206184>`_
-- `Use Photos on your Mac - Apple Support <https://support.apple.com/en-us/HT206186>`_
-- `If Boot Camp Assistant gives a "Not enough space" error - Apple Support <https://support.apple.com/en-us/HT206202>`_
-- `If you can't activate your iPhone - Apple Support <https://support.apple.com/en-us/HT206203>`_
-- `Get started with Keynote Live - Apple Support <https://support.apple.com/en-us/HT206205>`_
-- `If Final Cut Pro X doesn't respond when you share to DVD - Apple Support <https://support.apple.com/en-us/HT206206>`_
-- `About OS X wireless roaming for enterprise customers - Apple Support <https://support.apple.com/en-us/HT206207>`_
-- `If you can’t activate your iPad 2 (GSM model) after you update to iOS 9.3 - Apple Support <https://support.apple.com/en-us/HT206214>`_
-- `Add photos to your project in Photos for OS X - Apple Support <https://support.apple.com/en-us/HT206215>`_
-- `Get help with over-the-air iOS updates - Apple Support <https://support.apple.com/en-us/HT206218>`_
-- `If hyperlinks don't open in Safari, Mail, or Messages after updating to iOS 9.3 - Apple Support <https://support.apple.com/en-us/HT206223>`_
-- `About the security content of iBooks Author 2.4.1 - Apple Support <https://support.apple.com/en-us/HT206224>`_
-- `About the security content of iOS 9.3.1 - Apple Support <https://support.apple.com/en-us/HT206225>`_
-- `Use Thai Baht in the iTunes Store and App Store - Apple Support <https://support.apple.com/en-us/HT206229>`_
-- `About the OS X El Capitan v10.11.5 Update - Apple Support <https://support.apple.com/en-us/HT206230>`_
-- `Export and import wikis created with macOS Server - Apple Support <https://support.apple.com/en-us/HT206232>`_
-- `"Duplicate these displays" not supported in Boot Camp running Windows 8.1 or Windows 10 - Apple Support <https://support.apple.com/en-us/HT206233>`_
-- `If Network User accounts do not receive profile updates while logged in - Apple Support <https://support.apple.com/en-us/HT206326>`_
-- `About the security content of Xcode 7.3.1 - Apple Support <https://support.apple.com/en-us/HT206338>`_
-- `About the security content of iTunes 12.4 - Apple Support <https://support.apple.com/en-us/HT206379>`_
-- `Change the audio and notification settings on your Apple Watch - Apple Support <https://support.apple.com/en-us/HT206382>`_
-- `Organize your classical music in iTunes - Apple Support <https://support.apple.com/en-us/HT206456>`_
-- `About OS X Server 5.1.5 - Apple Support <https://support.apple.com/en-us/HT206486>`_
-- `About storage on your device and in iCloud - Apple Support <https://support.apple.com/en-us/HT206504>`_
-- `If photos from an album or folder don't sync correctly to your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT206520>`_
-- `Get help if you can't deregister iMessage - Apple Support <https://support.apple.com/en-us/HT206539>`_
-- `About the security content of tvOS 9.2.1 - Apple Support <https://support.apple.com/en-us/HT206564>`_
-- `About the security content of Safari 9.1.1 - Apple Support <https://support.apple.com/en-us/HT206565>`_
-- `About the security content of watchOS 2.2.1 - Apple Support <https://support.apple.com/en-us/HT206566>`_
-- `About the security content of OS X El Capitan v10.11.5 and Security Update 2016-003 - Apple Support <https://support.apple.com/en-us/HT206567>`_
-- `About the security content of iOS 9.3.2 - Apple Support <https://support.apple.com/en-us/HT206568>`_
-- `About Configurator 2.2.1 - Apple Support <https://support.apple.com/en-us/HT206584>`_
-- `How to access Chinese instruments and loops in GarageBand for iOS - Apple Support <https://support.apple.com/en-us/HT206585>`_
-- `Using 4K displays, 5K displays, and Ultra HD TVs with your Mac - Apple Support <https://support.apple.com/en-us/HT206587>`_
-- `If your installation stalls when you're upgrading Classroom app - Apple Support <https://support.apple.com/en-us/HT206589>`_
-- `Prepare to upgrade to Apple School Manager - Apple Support <https://support.apple.com/en-us/HT206590>`_
-- `If MacBook Pro (Retina, 13-inch, Early 2015) becomes unresponsive when a web browser is running - Apple Support <https://support.apple.com/en-us/HT206594>`_
-- `If the Caps Lock key on your MacBook or MacBook Pro isn't working as expected - Apple Support <https://support.apple.com/en-us/HT206620>`_
-- `View, change, or cancel your subscriptions in Israel, South Africa, or Turkey - Apple Support <https://support.apple.com/en-us/HT206627>`_
-- `Apple Pay participating banks in Europe - Apple Support <https://support.apple.com/en-us/HT206637>`_
-- `Apple Pay participating banks and card issuers in Asia-Pacific - Apple Support <https://support.apple.com/en-us/HT206638>`_
-- `About the OS X El Capitan v10.11.6 Update - Apple Support <https://support.apple.com/en-us/HT206770>`_
-- `When to use the Auto-Compensate Latency option in Logic Pro X - Apple Support <https://support.apple.com/en-us/HT206774>`_
-- `Manage included Apple apps for your institution - Apple Support <https://support.apple.com/en-us/HT206793>`_
-- `Prepare for changes to Xsan before you update to macOS Sierra - Apple Support <https://support.apple.com/en-us/HT206807>`_
-- `Some Logic Pro X plug-ins might sound different in MainStage - Apple Support <https://support.apple.com/en-us/HT206819>`_
-- `Logic Studio (2009) - Apple Support <https://support.apple.com/en-us/HT206836>`_
-- `About Apple Teacher Program Registration - Apple Support <https://support.apple.com/en-us/HT206841>`_
-- `Prepare for removal of PPTP VPN before you upgrade to iOS 10 and macOS Sierra - Apple Support <https://support.apple.com/en-us/HT206844>`_
-- `Security update for mDNSResponder - Apple Support <https://support.apple.com/en-us/HT206846>`_
-- `About the security content of AirPort Base Station Firmware Update 7.6.7 and 7.7.7 - Apple Support <https://support.apple.com/en-us/HT206849>`_
-- `Prepare your institution for iOS 10 and macOS Sierra - Apple Support <https://support.apple.com/en-us/HT206871>`_
-- `Fonts included with macOS Sierra - Apple Support <https://support.apple.com/en-us/HT206872>`_
-- `Verify your certificates for macOS Server - Apple Support <https://support.apple.com/en-us/HT206873>`_
-- `Prepare for macOS Sierra 10.12 with Active Directory - Apple Support <https://support.apple.com/en-us/HT206878>`_
-- `If your app doesn't start to install when you use Mobile Device Management (MDM) - Apple Support <https://support.apple.com/en-us/HT206881>`_
-- `Use a Managed Apple ID with iTunes U - Apple Support <https://support.apple.com/en-us/HT206882>`_
-- `Use Markup in Mail on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT206885>`_
-- `Upgrade to OS X El Capitan - Apple Support <https://support.apple.com/en-us/HT206886>`_
-- `About OS X Server v5.1.7 - Apple Support <https://support.apple.com/en-us/HT206887>`_
-- `macOS Sierra: Sophos Anti-Virus on-access scanner version 9.2.5 and earlier - Apple Support <https://support.apple.com/en-us/HT206888>`_
-- `macOS Sierra: Yamaha Steinberg USB Driver version 1.9.9 and earlier - Apple Support <https://support.apple.com/en-us/HT206889>`_
-- `OS X: When your computer spontaneously restarts or displays "Your computer restarted because of a problem." - Apple Support <https://support.apple.com/en-us/HT206890>`_
-- `Use message effects with iMessage on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT206894>`_
-- `Use Digital Touch on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT206896>`_
-- `About the security content of iCloud for Windows 5.2.1 - Apple Support <https://support.apple.com/en-us/HT206899>`_
-- `About the security content of Safari 9.1.2 - Apple Support <https://support.apple.com/en-us/HT206900>`_
-- `About the security content of iTunes 12.4.2 for Windows - Apple Support <https://support.apple.com/en-us/HT206901>`_
-- `About the security content of iOS 9.3.3 - Apple Support <https://support.apple.com/en-us/HT206902>`_
-- `About the security content of OS X El Capitan v10.11.6 and Security Update 2016-004 - Apple Support <https://support.apple.com/en-us/HT206903>`_
-- `About the security content of watchOS 2.2.2 - Apple Support <https://support.apple.com/en-us/HT206904>`_
-- `About the security content of tvOS 9.2.2 - Apple Support <https://support.apple.com/en-us/HT206905>`_
-- `Use iMessage apps on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT206906>`_
-- `Scribble on your Apple Watch - Apple Support <https://support.apple.com/en-us/HT206907>`_
-- `Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter requires Thunderbolt 3 - Apple Support <https://support.apple.com/en-us/HT206908>`_
-- `Thunderbolt networking over USB-C requires Thunderbolt 3 - Apple Support <https://support.apple.com/en-us/HT206909>`_
-- `Use the Control Center on your Apple Watch - Apple Support <https://support.apple.com/en-us/HT206951>`_
-- `If you can't create accounts with email addresses that use the '+' or '.' character - Apple Support <https://support.apple.com/en-us/HT206959>`_
-- `Upgrade your institution to Apple School Manager - Apple Support <https://support.apple.com/en-us/HT206960>`_
-- `About SOS on Apple Watch - Apple Support <https://support.apple.com/en-us/HT206983>`_
-- `If you see a message that says you signed up for Apple Music through both your mobile phone service provider and Apple - Apple Support <https://support.apple.com/en-us/HT206984>`_
-- `Add your Desktop and Documents files to iCloud Drive - Apple Support <https://support.apple.com/en-us/HT206985>`_
-- `About time-zone updates for iOS 10 or later, watchOS 3 or later, and tvOS 10 or later - Apple Support <https://support.apple.com/en-us/HT206986>`_
-- `Share your notes - Apple Support <https://support.apple.com/en-us/HT206987>`_
-- `Switch between apps using the Dock on your Apple Watch - Apple Support <https://support.apple.com/en-us/HT206992>`_
-- `Use Siri on your Mac - Apple Support <https://support.apple.com/en-us/HT206993>`_
-- `Automatically unlock your Mac with your Apple Watch - Apple Support <https://support.apple.com/en-us/HT206995>`_
-- `Free up storage space on your Mac - Apple Support <https://support.apple.com/en-us/HT206996>`_
-- `Watch video using Picture in Picture on your Mac - Apple Support <https://support.apple.com/en-us/HT206997>`_
-- `Use tabs with apps on your Mac - Apple Support <https://support.apple.com/en-us/HT206998>`_
-- `Use the Breathe app - Apple Support <https://support.apple.com/en-us/HT206999>`_
-- `About iMessage and SMS/MMS - Apple Support <https://support.apple.com/en-us/HT207006>`_
-- `Learn more about your AirPods with charging case - Apple Support <https://support.apple.com/en-us/HT207009>`_
-- `Use your AirPods - Apple Support <https://support.apple.com/en-us/HT207010>`_
-- `Charge your AirPods with charging case and learn about battery life - Apple Support <https://support.apple.com/en-us/HT207012>`_
-- `Share your Activity with your Apple Watch - Apple Support <https://support.apple.com/en-us/HT207014>`_
-- `Manage Personalized Recommendations - Apple Support <https://support.apple.com/en-us/HT207015>`_
-- `Set up your Medical ID in the Health app on your iPhone - Apple Support <https://support.apple.com/en-us/HT207021>`_
-- `Enjoy your Memories in Photos - Apple Support <https://support.apple.com/en-us/HT207023>`_
-- `If your Apple Watch is lost or stolen - Apple Support <https://support.apple.com/en-us/HT207024>`_
-- `Use Display Accommodations on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207025>`_
-- `About the security content of iOS 9.3.4 - Apple Support <https://support.apple.com/en-us/HT207026>`_
-- `About macOS Server 5.2 - Apple Support <https://support.apple.com/en-us/HT207027>`_
-- `Use SFTP to upload student, staff, and class data to Apple School Manager - Apple Support <https://support.apple.com/en-us/HT207029>`_
-- `Use a Handy Tech Active Star 40 with your iPhone, iPad, or iPod touch with VoiceOver - Apple Support <https://support.apple.com/en-us/HT207030>`_
-- `Use Display Accommodations on your Apple TV (4th generation) - Apple Support <https://support.apple.com/en-us/HT207032>`_
-- `Answer or make TTY calls from your iPhone - Apple Support <https://support.apple.com/en-us/HT207033>`_
-- `Upgrade and migrate data on your macOS Server - Apple Support <https://support.apple.com/en-us/HT207034>`_
-- `Use Single sign-on with your iOS device or Apple TV (4th generation) - Apple Support <https://support.apple.com/en-us/HT207035>`_
-- `About iPhone 7 and iPhone 7 Plus splash, water, and dust resistance - Apple Support <https://support.apple.com/en-us/HT207043>`_
-- `Use a GW Braille Sense Plus display with your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207044>`_
-- `Digital camera RAW formats supported by iOS 10 and macOS Sierra - Apple Support <https://support.apple.com/en-us/HT207049>`_
-- `Use your HIMS Smart Beetle display with VoiceOver on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207052>`_
-- `Use Touch ID on MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207054>`_
-- `Use the Touch Bar on your MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207055>`_
-- `About Location Services and Privacy - Apple Support <https://support.apple.com/en-us/HT207056>`_
-- `Automate and remotely access your HomeKit accessories - Apple Support <https://support.apple.com/en-us/HT207057>`_
-- `Printer and scanner software for OS X Mountain Lion - Apple Support <https://support.apple.com/en-us/HT207058>`_
-- `Stream your iTunes Store movies or TV shows - Apple Support <https://support.apple.com/en-us/HT207060>`_
-- `Use Typing Feedback on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207061>`_
-- `Use GPS and Location Services for apps on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207092>`_
-- `Charge your MacBook Pro with Thunderbolt 3 - Apple Support <https://support.apple.com/en-us/HT207097>`_
-- `Detect and block spam phone calls with third-party apps - Apple Support <https://support.apple.com/en-us/HT207099>`_
-- `Mac computers in USB Target Disk Mode via USB-C appear as "unknown" in Windows - Apple Support <https://support.apple.com/en-us/HT207102>`_
-- `About People in Photos on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207103>`_
-- `Start up your MacBook Pro by opening it or plugging it in - Apple Support <https://support.apple.com/en-us/HT207104>`_
-- `About the security content of iOS 9.3.5 - Apple Support <https://support.apple.com/en-us/HT207107>`_
-- `If you're asked to click Connect before reconnecting to a server - Apple Support <https://support.apple.com/en-us/HT207112>`_
-- `How to daisy-chain USB 2.0 devices to Thunderbolt 3 ports - Apple Support <https://support.apple.com/en-us/HT207113>`_
-- `Use Widgets on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207122>`_
-- `Cleaning your iPhone - Apple Support <https://support.apple.com/en-us/HT207123>`_
-- `How updating a library for Final Cut Pro X 10.3 can affect your audio - Apple Support <https://support.apple.com/en-us/HT207124>`_
-- `If your Bluetooth mouse doesn't work during Windows installation - Apple Support <https://support.apple.com/en-us/HT207125>`_
-- `Use shared storage with Final Cut Pro X 10.3 - Apple Support <https://support.apple.com/en-us/HT207128>`_
-- `About the security content of Security Update 2016-001 El Capitan and Security Update 2016-005 Yosemite - Apple Support <https://support.apple.com/en-us/HT207130>`_
-- `About the security content of Safari 9.1.3 - Apple Support <https://support.apple.com/en-us/HT207131>`_
-- `Find and organize emails on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207132>`_
-- `About Apple Configurator 2.3 - Apple Support <https://support.apple.com/en-us/HT207133>`_
-- `About the security content of Xcode 8 - Apple Support <https://support.apple.com/en-us/HT207140>`_
-- `About the security content of watchOS 3 - Apple Support <https://support.apple.com/en-us/HT207141>`_
-- `About the security content of tvOS 10 - Apple Support <https://support.apple.com/en-us/HT207142>`_
-- `About the security content of iOS 10 - Apple Support <https://support.apple.com/en-us/HT207143>`_
-- `Manage Exchange meeting invitations on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207144>`_
-- `About the security content of iOS 10.0.1 - Apple Support <https://support.apple.com/en-us/HT207145>`_
-- `About the security content of iCloud for Windows 6.0 - Apple Support <https://support.apple.com/en-us/HT207147>`_
+- `Edit and Share 4K video with iMovie <https://support.apple.com/en-us/HT205345>`_
+- `Edit and Share Video at 60 frames per second in iMovie <https://support.apple.com/en-us/HT205346>`_
+- `How to delete an app that has a configuration profile on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT205347>`_
+- `Change the name of a Bluetooth device <https://support.apple.com/en-us/HT205348>`_
+- `If an external display doesn't work with your MacBook Pro (Retina, 15-inch, Mid 2015) or MacBook Air (11-inch, Early 2015) running OS X El Capitan v10.11 <https://support.apple.com/en-us/HT205351>`_
+- `Get help with resetting your iPhone <https://support.apple.com/en-us/HT205352>`_
+- `About the App Store on your Apple TV (4th generation) <https://support.apple.com/en-us/HT205354>`_
+- `If you can’t use your Photos library in other apps <https://support.apple.com/en-us/HT205355>`_
+- `About the OS X El Capitan v10.11.3 Update <https://support.apple.com/en-us/HT205356>`_
+- `Set up your Apple TV (4th generation) <https://support.apple.com/en-us/HT205358>`_
+- `Enter your account information again when changing the YouTube share destination in Final Cut Pro <https://support.apple.com/en-us/HT205359>`_
+- `About the OS X El Capitan v10.11.1 Update <https://support.apple.com/en-us/HT205360>`_
+- `About OS X Server 5.0.15 <https://support.apple.com/en-us/HT205361>`_
+- `Set up Find My iPhone, iPad, Apple Watch, and Mac <https://support.apple.com/en-us/HT205362>`_
+- `Manage your Apple Music membership if you’re using an Android phone <https://support.apple.com/en-us/HT205364>`_
+- `Join Apple Music on your Android phone <https://support.apple.com/en-us/HT205365>`_
+- `Get help with Apple Music on Android <https://support.apple.com/en-us/HT205366>`_
+- `View the Holidays calendar for other regions <https://support.apple.com/en-us/HT205367>`_
+- `About the security content of iOS 9.1 <https://support.apple.com/en-us/HT205370>`_
+- `If your Apple Watch won't charge or it won't turn on <https://support.apple.com/en-us/HT205371>`_
+- `About the security content of iTunes 12.3.1 <https://support.apple.com/en-us/HT205372>`_
+- `About the security content of Keynote 6.6, Pages 5.6, Numbers 3.6, and iWork for iOS 2.6 <https://support.apple.com/en-us/HT205373>`_
+- `About the security content of OS X El Capitan 10.11.1, Security Update 2015-004 Yosemite, and Security Update 2015-007 Mavericks <https://support.apple.com/en-us/HT205375>`_
+- `About the security content of OS X Server 5.0.15 <https://support.apple.com/en-us/HT205376>`_
+- `About the security content of Safari 9.0.1 <https://support.apple.com/en-us/HT205377>`_
+- `About the security content of watchOS 2.0.1 <https://support.apple.com/en-us/HT205378>`_
+- `About the security content of Xcode 7.1 <https://support.apple.com/en-us/HT205379>`_
+- `If custom alert sounds don't appear after upgrading to El Capitan <https://support.apple.com/en-us/HT205380>`_
+- `If your country or region doesn't have Google Play, download the Apple Music app from the Apple website <https://support.apple.com/en-us/HT205381>`_
+- ` If some email messages or mailboxes are missing in Mail after upgrading to El Capitan <https://support.apple.com/en-us/HT205382>`_
+- `Charge your Siri Remote or Apple TV Remote <https://support.apple.com/en-us/HT205384>`_
+- `About Apple Configurator 2.1 <https://support.apple.com/en-us/HT205385>`_
+- `If a project you created in iPhoto shows empty frames in Photos for OS X <https://support.apple.com/en-us/HT205387>`_
+- `Email photos from iPhoto with your account that uses two-step verification <https://support.apple.com/en-us/HT205390>`_
+- `Import and export different file formats with Numbers <https://support.apple.com/en-us/HT205391>`_
+- `If you can't sign in with your Apple ID after you upgrade to iOS 9 <https://support.apple.com/en-us/HT205394>`_
+- `If you can't download iTunes for Windows using Microsoft Edge <https://support.apple.com/en-us/HT205395>`_
+- `Create and manage your music collection in Apple Music on Android <https://support.apple.com/en-us/HT205397>`_
+- `Create interlaced H.264 files in Final Cut Pro X and Compressor <https://support.apple.com/en-us/HT205398>`_
+- `Update your iPad Pro (9.7-inch) from iOS 9.3 or 9.3.1 to iOS 9.3.2 or later <https://support.apple.com/en-us/HT205399>`_
+- `Guest mode isn't available with some IPv6 configurations on AirPort devices <https://support.apple.com/en-us/HT205403>`_
+- `About iPad keyboard <https://support.apple.com/en-us/HT205408>`_
+- `Check the status of your library in Photos for macOS <https://support.apple.com/en-us/HT205409>`_
+- `About APN and Cellular profile payloads in Apple Configurator 2.1 <https://support.apple.com/en-us/HT205410>`_
+- `Restore previous versions of iWork documents stored on iCloud Drive <https://support.apple.com/en-us/HT205411>`_
+- `If inline images are missing from wiki pages hosted from OS X Server 5 <https://support.apple.com/en-us/HT205428>`_
+- `Charge your iPhone with your Smart Battery Case <https://support.apple.com/en-us/HT205443>`_
+- `About Apple TV (4th generation) software updates <https://support.apple.com/en-us/HT205444>`_
+- `Use VoiceOver on Apple TV (4th generation) <https://support.apple.com/en-us/HT205454>`_
+- `Set up your devices to use two-factor authentication <https://support.apple.com/en-us/HT205520>`_
+- `Change the watch face on your Apple Watch <https://support.apple.com/en-us/HT205536>`_
+- `How to use your Apple Watch without your iPhone nearby <https://support.apple.com/en-us/HT205547>`_
+- `Switch between apps using the Dock on your Apple Watch <https://support.apple.com/en-us/HT205548>`_
+- `Use your Apple Watch as a remote control for your Apple TV or iTunes <https://support.apple.com/en-us/HT205549>`_
+- `Status icons on Apple Watch <https://support.apple.com/en-us/HT205550>`_
+- `Change the brightness and text size on your Apple Watch  <https://support.apple.com/en-us/HT205551>`_
+- `About your Apple Watch <https://support.apple.com/en-us/HT205552>`_
+- `About the OS X El Capitan v10.11.2 Update <https://support.apple.com/en-us/HT205579>`_
+- `If XAVC-S media from your Sony camera appears blank in iMovie for Mac <https://support.apple.com/en-us/HT205580>`_
+- `Manage the cards that you use with Apple Pay <https://support.apple.com/en-us/HT205583>`_
+- `Charge your Apple Watch using the Apple Watch Magnetic Charging Dock <https://support.apple.com/en-us/HT205594>`_
+- `Apple Music and Family Sharing <https://support.apple.com/en-us/HT205595>`_
+- `If you see error -54 when you sync with iTunes <https://support.apple.com/en-us/HT205597>`_
+- `If your iPhone, iPad, or iPod touch won't turn on <https://support.apple.com/en-us/HT205599>`_
+- `Update the firmware for your Kirkland Signature hearing aids <https://support.apple.com/en-us/HT205603>`_
+- `If CoreAudioToolbox.dll is listed in the problem details when iTunes for Windows stops working <https://support.apple.com/en-us/HT205609>`_
+- `If still images are solid green or black in the iMovie Viewer <https://support.apple.com/en-us/HT205625>`_
+- `If you see error 53 and your iPhone or iPad gets stuck on the 'Connect to iTunes' screen <https://support.apple.com/en-us/HT205628>`_
+- `Using Apple Music on Sonos <https://support.apple.com/en-us/HT205629>`_
+- `Get help adding cards to Apple Pay <https://support.apple.com/en-us/HT205630>`_
+- `Changes to iTunes U course material storage locations <https://support.apple.com/en-us/HT205631>`_
+- `If you're missing Health data after restoring from an iCloud backup you made with iOS 9 <https://support.apple.com/en-us/HT205632>`_
+- `Set up CarPlay with your iPhone <https://support.apple.com/en-us/HT205634>`_
+- `About the security content of iOS 9.2 <https://support.apple.com/en-us/HT205635>`_
+- `About the security content of iTunes 12.3.2 <https://support.apple.com/en-us/HT205636>`_
+- `About the security content of OS X El Capitan 10.11.2, Security Update 2015-005 Yosemite, and Security Update 2015-008 Mavericks <https://support.apple.com/en-us/HT205637>`_
+- `About the security content of QuickTime 7.7.9 <https://support.apple.com/en-us/HT205638>`_
+- `About the security content of Safari 9.0.2 <https://support.apple.com/en-us/HT205639>`_
+- `About the security content of tvOS 9.1 <https://support.apple.com/en-us/HT205640>`_
+- `About the security content of watchOS 2.1 <https://support.apple.com/en-us/HT205641>`_
+- `About the security content of Xcode 7.2 <https://support.apple.com/en-us/HT205642>`_
+- `About EMV and Apple Pay for merchants <https://support.apple.com/en-us/HT205645>`_
+- `If Photos for OS X stops responding when you create a card <https://support.apple.com/en-us/HT205647>`_
+- `If your iPhone, iPad, or iPod touch won't turn on <https://support.apple.com/en-us/HT205648>`_
+- `Printer and scanner software available for download for OS X Lion <https://support.apple.com/en-us/HT205649>`_
+- `Share files between macOS and Windows on the same Mac <https://support.apple.com/en-us/HT205650>`_
+- `About the security content of Security Update 2015-006 Yosemite <https://support.apple.com/en-us/HT205653>`_
+- `If apps don't finish installing with Mobile Device Management (MDM) and iOS 9.2 <https://support.apple.com/en-us/HT205654>`_
+- `Ergonomics <https://support.apple.com/en-us/HT205655>`_
+- `If you see the 'This app cannot be assigned to a device' alert in Configurator 2 <https://support.apple.com/en-us/HT205656>`_
+- `Take and edit photos with your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT205659>`_
+- `Use a Baum VarioUltra display with VoiceOver <https://support.apple.com/en-us/HT205661>`_
+- `Clean the keyboard of your MacBook (Retina, 12-inch, Early 2015) and later <https://support.apple.com/en-us/HT205662>`_
+- `If you're asked to let Apple Music manage calls on your Android phone <https://support.apple.com/en-us/HT205665>`_
+- `If you get an alert from BTK in Turkey saying that your IMEI isn't registered <https://support.apple.com/en-us/HT205673>`_
+- `Change the shipping address for print product orders in Photos for macOS <https://support.apple.com/en-us/HT205701>`_
+- `About the Mac App Store Update for OS X Snow Leopard <https://support.apple.com/en-us/HT205702>`_
+- `Manage your photo and video storage <https://support.apple.com/en-us/HT205703>`_
+- `If your Xsan volume doesn't automatically mount at startup <https://support.apple.com/en-us/HT205706>`_
+- `If you see an error in iTunes on your Mac or PC <https://support.apple.com/en-us/HT205724>`_
+- `If your iPhone 6s or iPhone 6s Plus battery percentage doesn't update <https://support.apple.com/en-us/HT205727>`_
+- `If your iPad Pro wakes unexpectedly when connected to a Smart Keyboard <https://support.apple.com/en-us/HT205728>`_
+- `About the security content of tvOS 9.1.1 <https://support.apple.com/en-us/HT205729>`_
+- `About the security content of Safari 9.0.3 <https://support.apple.com/en-us/HT205730>`_
+- `About the security content of OS X El Capitan 10.11.3 and Security Update 2016-001 <https://support.apple.com/en-us/HT205731>`_
+- `About the security content of iOS 9.2.1 <https://support.apple.com/en-us/HT205732>`_
+- `Topics for the ACMT 2016 Mac Service Certification Exam (MAC-16A) <https://support.apple.com/en-us/HT205733>`_
+- `Courses to study for the ACMT 2016 Mac Service Certification Exam (MAC-16A) <https://support.apple.com/en-us/HT205734>`_
+- `Topics for the ACiT 2016 iOS Service Certification Exam (iOS-16A) <https://support.apple.com/en-us/HT205735>`_
+- `Courses to study for the ACiT 2016 iOS Service Certification Exam (iOS-16A) <https://support.apple.com/en-us/HT205736>`_
+- `Topics for the Apple Service Fundamentals Exam (SVC-16A) <https://support.apple.com/en-us/HT205737>`_
+- `Courses to study for the Apple Service Fundamentals Exam (SVC-16A) <https://support.apple.com/en-us/HT205738>`_
+- `Exams and courses that you need to service iOS products <https://support.apple.com/en-us/HT205739>`_
+- `Find audio-described content in the iTunes Store <https://support.apple.com/en-us/HT205742>`_
+- `About iCloud Photo Library and My Photo Stream <https://support.apple.com/en-us/HT205743>`_
+- `Apple FIPS Cryptographic Modules v6.0 for iOS 9 <https://support.apple.com/en-us/HT205745>`_
+- `How do I accept Apple Pay in my store <https://support.apple.com/en-us/HT205747>`_
+- `Apple FIPS Cryptographic Modules v6.0 for OS X El Capitan v10.11 <https://support.apple.com/en-us/HT205748>`_
+- `Set up your new Mac <https://support.apple.com/en-us/HT205749>`_
+- `About the OS X El Capitan v10.11.4 Update <https://support.apple.com/en-us/HT205750>`_
+- `Use iCloud Drive or iBooks to access your PDF files, ePub files, and books <https://support.apple.com/en-us/HT205751>`_
+- `Merchant training for Apple Pay <https://support.apple.com/en-us/HT205752>`_
+- `If installation of Windows 10 on your Mac stops at RealTek software <https://support.apple.com/en-us/HT205753>`_
+- `Keep your contacts up to date on all of your devices with iCloud <https://support.apple.com/en-us/HT205754>`_
+- `Stop older Apple Remotes from controlling your Apple TV (4th generation) <https://support.apple.com/en-us/HT205757>`_
+- `Where to get answers about your Mac <https://support.apple.com/en-us/HT205758>`_
+- `Apple security updates (2013) <https://support.apple.com/en-us/HT205759>`_
+- `If user profiles don't finish installing after updating to OS X Server 5.0.15 <https://support.apple.com/en-us/HT205760>`_
+- `Change the SMB connection limit in OS X Server 5 <https://support.apple.com/en-us/HT205761>`_
+- `Apple security updates (2014) <https://support.apple.com/en-us/HT205762>`_
+- `Help your child set up an iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT205763>`_
+- `Import XF and XF-AVC media from Canon cameras with Final Cut Pro X  <https://support.apple.com/en-us/HT205764>`_
+- `If Time Machine doesn't appear correctly on one of your Mac displays  <https://support.apple.com/en-us/HT205766>`_
+- `If you can’t send an email in the Mail app, because the compose window disappears and reappears <https://support.apple.com/en-us/HT205769>`_
+- `Control VoiceOver with Trackpad Commander <https://support.apple.com/en-us/HT205770>`_
+- `Uninstall QuickTime 7 for Windows <https://support.apple.com/en-us/HT205771>`_
+- `Use Notes on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT205773>`_
+- `Read and reply to messages with your Apple Watch <https://support.apple.com/en-us/HT205783>`_
+- `If you see a “Windows installer package” error message when you try to uninstall iTunes from your PC <https://support.apple.com/en-us/HT205788>`_
+- `Import Music Memos recordings into Logic Pro X <https://support.apple.com/en-us/HT205789>`_
+- `Use more than one Apple Watch with your iPhone <https://support.apple.com/en-us/HT205792>`_
+- `Import your notes and files to the Notes app <https://support.apple.com/en-us/HT205793>`_
+- `Keep your notes secure with password-protection <https://support.apple.com/en-us/HT205794>`_
+- `About the security content of Apple TV 7.2.1 <https://support.apple.com/en-us/HT205795>`_
+- `Turn on audio descriptions on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT205796>`_
+- `Turn on audio descriptions on iPod nano <https://support.apple.com/en-us/HT205797>`_
+- `Turn on audio descriptions in iTunes for Windows <https://support.apple.com/en-us/HT205798>`_
+- `Turn on audio descriptions on your Apple TV <https://support.apple.com/en-us/HT205799>`_
+- `Turn on audio descriptions on your Mac <https://support.apple.com/en-us/HT205800>`_
+- `Create an album from a project in Photos for OS X <https://support.apple.com/en-us/HT205804>`_
+- `About Apple USB-C to Lightning cable <https://support.apple.com/en-us/HT205807>`_
+- `Be productive on your new Mac <https://support.apple.com/en-us/HT205854>`_
+- `Delete photos on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT205856>`_
+- `About the USB-C Multiport Adapter Update 1.0 <https://support.apple.com/en-us/HT205858>`_
+- `Use Reminders on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT205890>`_
+- `Hide photos on your iPhone, iPad, iPod touch, or Mac <https://support.apple.com/en-us/HT205891>`_
+- `If you can't open or save changes to a shared file <https://support.apple.com/en-us/HT205892>`_
+- `If your Alchemy window doesn't show presets <https://support.apple.com/en-us/HT205895>`_
+- `Automatically assign MIDI controller knobs, sliders, and other controls with Logic Pro X 10.2.2 <https://support.apple.com/en-us/HT205896>`_
+- `Get help with missing photos <https://support.apple.com/en-us/HT205912>`_
+- `About Managed Apple IDs for education <https://support.apple.com/en-us/HT205918>`_
+- `Get your music collection on all of your devices <https://support.apple.com/en-us/HT205919>`_
+- `If you see error -5000, -69, 13010, or 13014 when you sync music in iTunes <https://support.apple.com/en-us/HT205922>`_
+- `Turn off packet signing for SMB 2 and SMB 3 connections <https://support.apple.com/en-us/HT205926>`_
+- `If GarageBand for Mac won't open or play back your project <https://support.apple.com/en-us/HT205927>`_
+- `Get an Apple Music Student Membership <https://support.apple.com/en-us/HT205928>`_
+- `If GarageBand for iOS won't open or playback your project <https://support.apple.com/en-us/HT205929>`_
+- `Read along with iBooks StoryTime on Apple TV <https://support.apple.com/en-us/HT205930>`_
+- `Get help with the Photos app on your Mac <https://support.apple.com/en-us/HT205966>`_
+- `About the Multithreading setting in Logic Pro X <https://support.apple.com/en-us/HT205975>`_
+- `ATLAS frequently asked questions <https://support.apple.com/en-us/HT206048>`_
+- `If the built-in display on your MacBook Pro (Retina, 15-inch, Mid 2015) doesn't turn on <https://support.apple.com/en-us/HT206087>`_
+- `About the security content of Apple Software Update 2.2 <https://support.apple.com/en-us/HT206091>`_
+- `How to get a Tech ID <https://support.apple.com/en-us/HT206138>`_
+- `Change your payment method from ClickandBuy <https://support.apple.com/en-us/HT206142>`_
+- `About OS X Server 5.1 <https://support.apple.com/en-us/HT206145>`_
+- `About Classroom 1.1.2 <https://support.apple.com/en-us/HT206151>`_
+- `If you see a "VPN Using PPTP May Not Be Secure" alert <https://support.apple.com/en-us/HT206152>`_
+- `About Configurator 2.2 <https://support.apple.com/en-us/HT206153>`_
+- `VPN Key Exchange Enhancements in iOS 9.3, OS X 10.11.4 and Server 5.1 <https://support.apple.com/en-us/HT206154>`_
+- `Get help with iMovie <https://support.apple.com/en-us/HT206157>`_
+- `About subscriptions in Apple News <https://support.apple.com/en-us/HT206158>`_
+- `About the security content of iOS 9.3 <https://support.apple.com/en-us/HT206166>`_
+- `About the security content of OS X El Capitan v10.11.4 and Security Update 2016-002 <https://support.apple.com/en-us/HT206167>`_
+- `About the security content of watchOS 2.2 <https://support.apple.com/en-us/HT206168>`_
+- `About the security content of tvOS 9.2 <https://support.apple.com/en-us/HT206169>`_
+- `How to download content from the cloud when using Optimized Storage <https://support.apple.com/en-us/HT206170>`_
+- `About the security content of Safari 9.1 <https://support.apple.com/en-us/HT206171>`_
+- `About the security content of Xcode 7.3 <https://support.apple.com/en-us/HT206172>`_
+- `About the security content of OS X Server 5.1 <https://support.apple.com/en-us/HT206173>`_
+- `About the macOS Sierra 10.12.1 update <https://support.apple.com/en-us/HT206174>`_
+- `Languages supported by VoiceOver <https://support.apple.com/en-us/HT206175>`_
+- `About Apple Remote Desktop Client 3.8.5 <https://support.apple.com/en-us/HT206178>`_
+- `If OS X Server 3 and earlier doesn't display recent VPP purchases <https://support.apple.com/en-us/HT206179>`_
+- `About collaboration for Pages, Numbers, and Keynote <https://support.apple.com/en-us/HT206181>`_
+- `Add a song to a playlist in Apple Music without adding it to your library <https://support.apple.com/en-us/HT206183>`_
+- `Set up your document in Pages <https://support.apple.com/en-us/HT206184>`_
+- `Use Photos on your Mac <https://support.apple.com/en-us/HT206186>`_
+- `If Boot Camp Assistant gives a "Not enough space" error <https://support.apple.com/en-us/HT206202>`_
+- `If you can't activate your iPhone <https://support.apple.com/en-us/HT206203>`_
+- `Get started with Keynote Live <https://support.apple.com/en-us/HT206205>`_
+- `If Final Cut Pro X doesn't respond when you share to DVD <https://support.apple.com/en-us/HT206206>`_
+- `About OS X wireless roaming for enterprise customers <https://support.apple.com/en-us/HT206207>`_
+- `If you can’t activate your iPad 2 (GSM model) after you update to iOS 9.3 <https://support.apple.com/en-us/HT206214>`_
+- `Add photos to your project in Photos for OS X <https://support.apple.com/en-us/HT206215>`_
+- `Get help with over-the-air iOS updates <https://support.apple.com/en-us/HT206218>`_
+- `If hyperlinks don't open in Safari, Mail, or Messages after updating to iOS 9.3 <https://support.apple.com/en-us/HT206223>`_
+- `About the security content of iBooks Author 2.4.1 <https://support.apple.com/en-us/HT206224>`_
+- `About the security content of iOS 9.3.1 <https://support.apple.com/en-us/HT206225>`_
+- `Use Thai Baht in the iTunes Store and App Store <https://support.apple.com/en-us/HT206229>`_
+- `About the OS X El Capitan v10.11.5 Update <https://support.apple.com/en-us/HT206230>`_
+- `Export and import wikis created with macOS Server <https://support.apple.com/en-us/HT206232>`_
+- `"Duplicate these displays" not supported in Boot Camp running Windows 8.1 or Windows 10 <https://support.apple.com/en-us/HT206233>`_
+- `If Network User accounts do not receive profile updates while logged in <https://support.apple.com/en-us/HT206326>`_
+- `About the security content of Xcode 7.3.1 <https://support.apple.com/en-us/HT206338>`_
+- `About the security content of iTunes 12.4 <https://support.apple.com/en-us/HT206379>`_
+- `Change the audio and notification settings on your Apple Watch <https://support.apple.com/en-us/HT206382>`_
+- `Organize your classical music in iTunes <https://support.apple.com/en-us/HT206456>`_
+- `About OS X Server 5.1.5 <https://support.apple.com/en-us/HT206486>`_
+- `About storage on your device and in iCloud <https://support.apple.com/en-us/HT206504>`_
+- `If photos from an album or folder don't sync correctly to your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT206520>`_
+- `Get help if you can't deregister iMessage <https://support.apple.com/en-us/HT206539>`_
+- `About the security content of tvOS 9.2.1 <https://support.apple.com/en-us/HT206564>`_
+- `About the security content of Safari 9.1.1 <https://support.apple.com/en-us/HT206565>`_
+- `About the security content of watchOS 2.2.1 <https://support.apple.com/en-us/HT206566>`_
+- `About the security content of OS X El Capitan v10.11.5 and Security Update 2016-003 <https://support.apple.com/en-us/HT206567>`_
+- `About the security content of iOS 9.3.2 <https://support.apple.com/en-us/HT206568>`_
+- `About Configurator 2.2.1 <https://support.apple.com/en-us/HT206584>`_
+- `How to access Chinese instruments and loops in GarageBand for iOS <https://support.apple.com/en-us/HT206585>`_
+- `Using 4K displays, 5K displays, and Ultra HD TVs with your Mac <https://support.apple.com/en-us/HT206587>`_
+- `If your installation stalls when you're upgrading Classroom app <https://support.apple.com/en-us/HT206589>`_
+- `Prepare to upgrade to Apple School Manager <https://support.apple.com/en-us/HT206590>`_
+- `If MacBook Pro (Retina, 13-inch, Early 2015) becomes unresponsive when a web browser is running <https://support.apple.com/en-us/HT206594>`_
+- `If the Caps Lock key on your MacBook or MacBook Pro isn't working as expected <https://support.apple.com/en-us/HT206620>`_
+- `View, change, or cancel your subscriptions in Israel, South Africa, or Turkey <https://support.apple.com/en-us/HT206627>`_
+- `Apple Pay participating banks in Europe <https://support.apple.com/en-us/HT206637>`_
+- `Apple Pay participating banks and card issuers in Asia-Pacific <https://support.apple.com/en-us/HT206638>`_
+- `About the OS X El Capitan v10.11.6 Update <https://support.apple.com/en-us/HT206770>`_
+- `When to use the Auto-Compensate Latency option in Logic Pro X <https://support.apple.com/en-us/HT206774>`_
+- `Manage included Apple apps for your institution <https://support.apple.com/en-us/HT206793>`_
+- `Prepare for changes to Xsan before you update to macOS Sierra <https://support.apple.com/en-us/HT206807>`_
+- `Some Logic Pro X plug-ins might sound different in MainStage <https://support.apple.com/en-us/HT206819>`_
+- `Logic Studio (2009) <https://support.apple.com/en-us/HT206836>`_
+- `About Apple Teacher Program Registration <https://support.apple.com/en-us/HT206841>`_
+- `Prepare for removal of PPTP VPN before you upgrade to iOS 10 and macOS Sierra <https://support.apple.com/en-us/HT206844>`_
+- `Security update for mDNSResponder <https://support.apple.com/en-us/HT206846>`_
+- `About the security content of AirPort Base Station Firmware Update 7.6.7 and 7.7.7 <https://support.apple.com/en-us/HT206849>`_
+- `Prepare your institution for iOS 10 and macOS Sierra <https://support.apple.com/en-us/HT206871>`_
+- `Fonts included with macOS Sierra <https://support.apple.com/en-us/HT206872>`_
+- `Verify your certificates for macOS Server <https://support.apple.com/en-us/HT206873>`_
+- `Prepare for macOS Sierra 10.12 with Active Directory <https://support.apple.com/en-us/HT206878>`_
+- `If your app doesn't start to install when you use Mobile Device Management (MDM) <https://support.apple.com/en-us/HT206881>`_
+- `Use a Managed Apple ID with iTunes U <https://support.apple.com/en-us/HT206882>`_
+- `Use Markup in Mail on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT206885>`_
+- `Upgrade to OS X El Capitan <https://support.apple.com/en-us/HT206886>`_
+- `About OS X Server v5.1.7 <https://support.apple.com/en-us/HT206887>`_
+- `macOS Sierra: Sophos Anti-Virus on-access scanner version 9.2.5 and earlier <https://support.apple.com/en-us/HT206888>`_
+- `macOS Sierra: Yamaha Steinberg USB Driver version 1.9.9 and earlier <https://support.apple.com/en-us/HT206889>`_
+- `OS X: When your computer spontaneously restarts or displays "Your computer restarted because of a problem." <https://support.apple.com/en-us/HT206890>`_
+- `Use message effects with iMessage on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT206894>`_
+- `Use Digital Touch on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT206896>`_
+- `About the security content of iCloud for Windows 5.2.1 <https://support.apple.com/en-us/HT206899>`_
+- `About the security content of Safari 9.1.2 <https://support.apple.com/en-us/HT206900>`_
+- `About the security content of iTunes 12.4.2 for Windows <https://support.apple.com/en-us/HT206901>`_
+- `About the security content of iOS 9.3.3 <https://support.apple.com/en-us/HT206902>`_
+- `About the security content of OS X El Capitan v10.11.6 and Security Update 2016-004 <https://support.apple.com/en-us/HT206903>`_
+- `About the security content of watchOS 2.2.2 <https://support.apple.com/en-us/HT206904>`_
+- `About the security content of tvOS 9.2.2 <https://support.apple.com/en-us/HT206905>`_
+- `Use iMessage apps on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT206906>`_
+- `Scribble on your Apple Watch <https://support.apple.com/en-us/HT206907>`_
+- `Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter requires Thunderbolt 3 <https://support.apple.com/en-us/HT206908>`_
+- `Thunderbolt networking over USB-C requires Thunderbolt 3 <https://support.apple.com/en-us/HT206909>`_
+- `Use the Control Center on your Apple Watch <https://support.apple.com/en-us/HT206951>`_
+- `If you can't create accounts with email addresses that use the '+' or '.' character <https://support.apple.com/en-us/HT206959>`_
+- `Upgrade your institution to Apple School Manager <https://support.apple.com/en-us/HT206960>`_
+- `About SOS on Apple Watch <https://support.apple.com/en-us/HT206983>`_
+- `If you see a message that says you signed up for Apple Music through both your mobile phone service provider and Apple <https://support.apple.com/en-us/HT206984>`_
+- `Add your Desktop and Documents files to iCloud Drive <https://support.apple.com/en-us/HT206985>`_
+- `About time-zone updates for iOS 10 or later, watchOS 3 or later, and tvOS 10 or later <https://support.apple.com/en-us/HT206986>`_
+- `Share your notes <https://support.apple.com/en-us/HT206987>`_
+- `Switch between apps using the Dock on your Apple Watch <https://support.apple.com/en-us/HT206992>`_
+- `Use Siri on your Mac <https://support.apple.com/en-us/HT206993>`_
+- `Automatically unlock your Mac with your Apple Watch <https://support.apple.com/en-us/HT206995>`_
+- `Free up storage space on your Mac <https://support.apple.com/en-us/HT206996>`_
+- `Watch video using Picture in Picture on your Mac <https://support.apple.com/en-us/HT206997>`_
+- `Use tabs with apps on your Mac <https://support.apple.com/en-us/HT206998>`_
+- `Use the Breathe app <https://support.apple.com/en-us/HT206999>`_
+- `About iMessage and SMS/MMS <https://support.apple.com/en-us/HT207006>`_
+- `Learn more about your AirPods with charging case <https://support.apple.com/en-us/HT207009>`_
+- `Use your AirPods <https://support.apple.com/en-us/HT207010>`_
+- `Charge your AirPods with charging case and learn about battery life <https://support.apple.com/en-us/HT207012>`_
+- `Share your Activity with your Apple Watch <https://support.apple.com/en-us/HT207014>`_
+- `Manage Personalized Recommendations <https://support.apple.com/en-us/HT207015>`_
+- `Set up your Medical ID in the Health app on your iPhone <https://support.apple.com/en-us/HT207021>`_
+- `Enjoy your Memories in Photos <https://support.apple.com/en-us/HT207023>`_
+- `If your Apple Watch is lost or stolen <https://support.apple.com/en-us/HT207024>`_
+- `Use Display Accommodations on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207025>`_
+- `About the security content of iOS 9.3.4 <https://support.apple.com/en-us/HT207026>`_
+- `About macOS Server 5.2 <https://support.apple.com/en-us/HT207027>`_
+- `Use SFTP to upload student, staff, and class data to Apple School Manager <https://support.apple.com/en-us/HT207029>`_
+- `Use a Handy Tech Active Star 40 with your iPhone, iPad, or iPod touch with VoiceOver <https://support.apple.com/en-us/HT207030>`_
+- `Use Display Accommodations on your Apple TV (4th generation) <https://support.apple.com/en-us/HT207032>`_
+- `Answer or make TTY calls from your iPhone <https://support.apple.com/en-us/HT207033>`_
+- `Upgrade and migrate data on your macOS Server <https://support.apple.com/en-us/HT207034>`_
+- `Use Single sign-on with your iOS device or Apple TV (4th generation) <https://support.apple.com/en-us/HT207035>`_
+- `About iPhone 7 and iPhone 7 Plus splash, water, and dust resistance <https://support.apple.com/en-us/HT207043>`_
+- `Use a GW Braille Sense Plus display with your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207044>`_
+- `Digital camera RAW formats supported by iOS 10 and macOS Sierra <https://support.apple.com/en-us/HT207049>`_
+- `Use your HIMS Smart Beetle display with VoiceOver on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207052>`_
+- `Use Touch ID on MacBook Pro <https://support.apple.com/en-us/HT207054>`_
+- `Use the Touch Bar on your MacBook Pro <https://support.apple.com/en-us/HT207055>`_
+- `About Location Services and Privacy <https://support.apple.com/en-us/HT207056>`_
+- `Automate and remotely access your HomeKit accessories <https://support.apple.com/en-us/HT207057>`_
+- `Printer and scanner software for OS X Mountain Lion <https://support.apple.com/en-us/HT207058>`_
+- `Stream your iTunes Store movies or TV shows <https://support.apple.com/en-us/HT207060>`_
+- `Use Typing Feedback on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207061>`_
+- `Use GPS and Location Services for apps on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207092>`_
+- `Charge your MacBook Pro with Thunderbolt 3 <https://support.apple.com/en-us/HT207097>`_
+- `Detect and block spam phone calls with third-party apps <https://support.apple.com/en-us/HT207099>`_
+- `Mac computers in USB Target Disk Mode via USB-C appear as "unknown" in Windows <https://support.apple.com/en-us/HT207102>`_
+- `About People in Photos on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207103>`_
+- `Start up your MacBook Pro by opening it or plugging it in <https://support.apple.com/en-us/HT207104>`_
+- `About the security content of iOS 9.3.5 <https://support.apple.com/en-us/HT207107>`_
+- `If you're asked to click Connect before reconnecting to a server <https://support.apple.com/en-us/HT207112>`_
+- `How to daisy-chain USB 2.0 devices to Thunderbolt 3 ports <https://support.apple.com/en-us/HT207113>`_
+- `Use Widgets on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207122>`_
+- `Cleaning your iPhone <https://support.apple.com/en-us/HT207123>`_
+- `How updating a library for Final Cut Pro X 10.3 can affect your audio <https://support.apple.com/en-us/HT207124>`_
+- `If your Bluetooth mouse doesn't work during Windows installation <https://support.apple.com/en-us/HT207125>`_
+- `Use shared storage with Final Cut Pro X 10.3 <https://support.apple.com/en-us/HT207128>`_
+- `About the security content of Security Update 2016-001 El Capitan and Security Update 2016-005 Yosemite <https://support.apple.com/en-us/HT207130>`_
+- `About the security content of Safari 9.1.3 <https://support.apple.com/en-us/HT207131>`_
+- `Find and organize emails on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207132>`_
+- `About Apple Configurator 2.3 <https://support.apple.com/en-us/HT207133>`_
+- `About the security content of Xcode 8 <https://support.apple.com/en-us/HT207140>`_
+- `About the security content of watchOS 3 <https://support.apple.com/en-us/HT207141>`_
+- `About the security content of tvOS 10 <https://support.apple.com/en-us/HT207142>`_
+- `About the security content of iOS 10 <https://support.apple.com/en-us/HT207143>`_
+- `Manage Exchange meeting invitations on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207144>`_
+- `About the security content of iOS 10.0.1 <https://support.apple.com/en-us/HT207145>`_
+- `About the security content of iCloud for Windows 6.0 <https://support.apple.com/en-us/HT207147>`_
 - `iTunes Gift Card Scams - Official Apple Support <https://support.apple.com/en-us/HT207148>`_
-- `Get help transferring Suica cards to your iPhone or Apple Watch - Apple Support <https://support.apple.com/en-us/HT207153>`_
-- `Using Suica on iPhone or Apple Watch in Japan - Apple Support <https://support.apple.com/en-us/HT207154>`_
-- `Set up a Suica card in Apple Pay - Apple Support <https://support.apple.com/en-us/HT207155>`_
-- `About the security content of Safari 10 - Apple Support <https://support.apple.com/en-us/HT207157>`_
-- `About the security content of iTunes 12.5.1 for Windows - Apple Support <https://support.apple.com/en-us/HT207158>`_
-- `If some apps don’t load on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207165>`_
-- `About the security content of macOS Sierra 10.12 - Apple Support <https://support.apple.com/en-us/HT207170>`_
-- `About the security content of macOS Server 5.2 - Apple Support <https://support.apple.com/en-us/HT207171>`_
-- `List of available trusted root certificates in iOS 10 - Apple Support <https://support.apple.com/en-us/HT207177>`_
-- `Use #images with Messages in iOS 10 - Apple Support <https://support.apple.com/en-us/HT207179>`_
-- `See a voicemail transcription on your iPhone  - Apple Support <https://support.apple.com/en-us/HT207181>`_
-- `If Pages, Numbers, or Keynote suddenly quit when you open them on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207185>`_
-- `If some apps don’t load on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207186>`_
-- `About the Home button on iPhone 7 and iPhone 7 Plus - Apple Support <https://support.apple.com/en-us/HT207188>`_
-- `List of available trusted root certificates in macOS Sierra - Apple Support <https://support.apple.com/en-us/HT207189>`_
-- `List of available trusted root certificates in watchOS 3 - Apple Support <https://support.apple.com/en-us/HT207190>`_
-- `Apple School Manager release notes - Apple Support <https://support.apple.com/en-us/HT207191>`_
-- `Connect with Thunderbolt 3 on your new MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207192>`_
-- `Hear Mickey Mouse or Minnie Mouse speak the time - Apple Support <https://support.apple.com/en-us/HT207194>`_
-- `Switch from two-step verification to two-factor authentication - Apple Support <https://support.apple.com/en-us/HT207198>`_
-- `About the security content of iOS 10.0.2 - Apple Support <https://support.apple.com/en-us/HT207199>`_
-- `If a Core Audio alert appears in GarageBand for iOS - Apple Support <https://support.apple.com/en-us/HT207202>`_
-- `Use Apple School Manager and Profile Manager to assign Volume Store content - Apple Support <https://support.apple.com/en-us/HT207204>`_
-- `Manage and delete contacts on your iPhone, iPad, or iPod touch - Apple Support <https://support.apple.com/en-us/HT207207>`_
-- `Change the font size or zoom level of web pages in Safari - Apple Support <https://support.apple.com/en-us/HT207209>`_
-- `Use mailboxes to organize emails on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207213>`_
-- `How to find your parked car with Maps on your iPhone - Apple Support <https://support.apple.com/en-us/HT207227>`_
-- `Lists of available trusted root certificates in tvOS - Apple Support <https://support.apple.com/en-us/HT207231>`_
-- `List of available trusted root certificates in tvOS 10 - Apple Support <https://support.apple.com/en-us/HT207232>`_
-- `About Subscriptions and Privacy - Apple Support <https://support.apple.com/en-us/HT207233>`_
-- `How to use pro apps with Optimized Storage - Apple Support <https://support.apple.com/en-us/HT207236>`_
-- `If you can't find your shared Final Cut Pro X media in iTunes - Apple Support <https://support.apple.com/en-us/HT207237>`_
-- `Export XML from Final Cut Pro X 10.3 for Logic Pro X - Apple Support <https://support.apple.com/en-us/HT207238>`_
-- `Using function keys on MacBook Pro with Touch Bar - Apple Support <https://support.apple.com/en-us/HT207240>`_
-- `Pages for iOS release notes - Apple Support <https://support.apple.com/en-us/HT207242>`_
-- `Pages for Mac release notes - Apple Support <https://support.apple.com/en-us/HT207243>`_
-- `Numbers for Mac release notes - Apple Support <https://support.apple.com/en-us/HT207244>`_
-- `Numbers for iOS release notes - Apple Support <https://support.apple.com/en-us/HT207245>`_
-- `Keynote for iOS release notes - Apple Support <https://support.apple.com/en-us/HT207246>`_
-- `Keynote for Mac release notes - Apple Support <https://support.apple.com/en-us/HT207247>`_
-- `Verify installation of Pro Video Formats - Apple Support <https://support.apple.com/en-us/HT207249>`_
-- `Prevent your Mac from downloading updates in the background  - Apple Support <https://support.apple.com/en-us/HT207251>`_
-- `Add a personal Apple ID as a contributor to a managed iTunes U course - Apple Support <https://support.apple.com/en-us/HT207252>`_
-- `Use the TV app on your Apple TV (4th generation), iPhone, and iPad - Apple Support <https://support.apple.com/en-us/HT207254>`_
-- `Connect with Thunderbolt 3 on your new MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207256>`_
-- `Use accessibility features with Touch Bar on your MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207257>`_
-- `Use accessibility features with Touch Bar on your MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207258>`_
-- `Use camera modes on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207260>`_
-- `Update your libraries for Final Cut Pro X 10.3 - Apple Support <https://support.apple.com/en-us/HT207261>`_
-- `If your iPhone 7 or iPhone 7 Plus enters recovery mode as you try to update - Apple Support <https://support.apple.com/en-us/HT207262>`_
-- `About the security content of iOS 10.0.3 - Apple Support <https://support.apple.com/en-us/HT207263>`_
-- `About Final Cut Pro X and Motion plug-in compatibility - Apple Support <https://support.apple.com/en-us/HT207264>`_
-- `Connect devices and displays with the Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter - Apple Support <https://support.apple.com/en-us/HT207266>`_
-- `Xsan 5 volumes might be temporarily inaccessible after some operations - Apple Support <https://support.apple.com/en-us/HT207267>`_
-- `About the security content of Xcode 8.1 - Apple Support <https://support.apple.com/en-us/HT207268>`_
-- `About the security content of watchOS 3.1 - Apple Support <https://support.apple.com/en-us/HT207269>`_
-- `About the security content of tvOS 10.0.1 - Apple Support <https://support.apple.com/en-us/HT207270>`_
-- `About the security content of iOS 10.1 - Apple Support <https://support.apple.com/en-us/HT207271>`_
-- `About the security content of Safari 10.0.1 - Apple Support <https://support.apple.com/en-us/HT207272>`_
-- `About the security content of iCloud for Windows 6.0.1 - Apple Support <https://support.apple.com/en-us/HT207273>`_
-- `About the security content of iTunes 12.5.2 for Windows - Apple Support <https://support.apple.com/en-us/HT207274>`_
-- `About the security content of macOS Sierra 10.12.1, Security Update 2016-002 El Capitan, and Security Update 2016-006 Yosemite - Apple Support <https://support.apple.com/en-us/HT207275>`_
-- `Redeem your App Store Top-Up card in China - Apple Support <https://support.apple.com/en-us/HT207276>`_
-- `If a DVD created in Final Cut Pro X, Motion, or Compressor is blank - Apple Support <https://support.apple.com/en-us/HT207277>`_
-- `If your MacBook Pro (15-inch, Late 2016) doesn't start up correctly with Sharp PN-K321 display connected - Apple Support <https://support.apple.com/en-us/HT207278>`_
-- `How to use the flashlight on your iPhone and iPod touch - Apple Support <https://support.apple.com/en-us/HT207281>`_
-- `About the security content of iOS 10.1.1 - Apple Support <https://support.apple.com/en-us/HT207287>`_
-- `If you see a "No images are available" error message when you install Windows 10 - Apple Support <https://support.apple.com/en-us/HT207300>`_
-- `Turn off Voice Control on your iPhone - Apple Support <https://support.apple.com/en-us/HT207301>`_
-- `If images appear cropped in the viewer in Final Cut Pro X 10.3 - Apple Support <https://support.apple.com/en-us/HT207304>`_
-- `Availability of Apple programs for education and business - Apple Support <https://support.apple.com/en-us/HT207305>`_
-- `About the macOS Sierra 10.12.2 Update - Apple Support <https://support.apple.com/en-us/HT207307>`_
-- `iOS Compatibility with Cisco QoS Fastlane & Adaptive 802.11r - Apple Support <https://support.apple.com/en-us/HT207308>`_
-- `Take and edit Live Photos - Apple Support <https://support.apple.com/en-us/HT207310>`_
-- `Safety certifications for iPod touch batteries - Apple Support <https://support.apple.com/en-us/HT207312>`_
-- `Replace your iPhone, iPad, or Apple Watch - Apple Support <https://support.apple.com/en-us/HT207313>`_
-- `Share photos to Facebook from iPhoto and Aperture - Apple Support <https://support.apple.com/en-us/HT207355>`_
-- `If a library won't update in Final Cut Pro X 10.3 - Apple Support <https://support.apple.com/en-us/HT207357>`_
-- `Using the Escape button on your MacBook Pro with Touch Bar - Apple Support <https://support.apple.com/en-us/HT207358>`_
-- `If kernel_task is using a large percentage of your Mac CPU - Apple Support <https://support.apple.com/en-us/HT207359>`_
-- `If your Xsan service doesn’t work after you upgrade to macOS Sierra 10.12.2 - Apple Support <https://support.apple.com/en-us/HT207367>`_
-- `Organize and find your photos - Apple Support <https://support.apple.com/en-us/HT207368>`_
-- `If Final Cut Pro X 10.3 doesn't open previously open libraries - Apple Support <https://support.apple.com/en-us/HT207370>`_
-- `If you see an ISO file error while using Boot Camp to install Windows - Apple Support <https://support.apple.com/en-us/HT207407>`_
-- `If you can't buy, redownload, or play 1080p video content from the iTunes Store - Apple Support <https://support.apple.com/en-us/HT207408>`_
-- `Connect your Student Information System to Apple School Manager - Apple Support <https://support.apple.com/en-us/HT207409>`_
-- `Install Audio Driver Update for Boot Camp to avoid issues with 2016 MacBook Pro speakers - Apple Support <https://support.apple.com/en-us/HT207410>`_
-- `Upgrade to Xsan 5 - Apple Support <https://support.apple.com/en-us/HT207413>`_
-- `About iTunes U - Apple Support <https://support.apple.com/en-us/HT207420>`_
-- `About the security content of Safari 10.0.2 - Apple Support <https://support.apple.com/en-us/HT207421>`_
-- `About the security content of iOS 10.2 - Apple Support <https://support.apple.com/en-us/HT207422>`_
-- `About the security content of macOS Sierra 10.12.2, Security Update 2016-003 El Capitan, and Security Update 2016-007 Yosemite - Apple Support <https://support.apple.com/en-us/HT207423>`_
-- `About the security content of iCloud for Windows 6.1 - Apple Support <https://support.apple.com/en-us/HT207424>`_
+- `Get help transferring Suica cards to your iPhone or Apple Watch <https://support.apple.com/en-us/HT207153>`_
+- `Using Suica on iPhone or Apple Watch in Japan <https://support.apple.com/en-us/HT207154>`_
+- `Set up a Suica card in Apple Pay <https://support.apple.com/en-us/HT207155>`_
+- `About the security content of Safari 10 <https://support.apple.com/en-us/HT207157>`_
+- `About the security content of iTunes 12.5.1 for Windows <https://support.apple.com/en-us/HT207158>`_
+- `If some apps don’t load on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207165>`_
+- `About the security content of macOS Sierra 10.12 <https://support.apple.com/en-us/HT207170>`_
+- `About the security content of macOS Server 5.2 <https://support.apple.com/en-us/HT207171>`_
+- `List of available trusted root certificates in iOS 10 <https://support.apple.com/en-us/HT207177>`_
+- `Use #images with Messages in iOS 10 <https://support.apple.com/en-us/HT207179>`_
+- `See a voicemail transcription on your iPhone  <https://support.apple.com/en-us/HT207181>`_
+- `If Pages, Numbers, or Keynote suddenly quit when you open them on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207185>`_
+- `If some apps don’t load on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207186>`_
+- `About the Home button on iPhone 7 and iPhone 7 Plus <https://support.apple.com/en-us/HT207188>`_
+- `List of available trusted root certificates in macOS Sierra <https://support.apple.com/en-us/HT207189>`_
+- `List of available trusted root certificates in watchOS 3 <https://support.apple.com/en-us/HT207190>`_
+- `Apple School Manager release notes <https://support.apple.com/en-us/HT207191>`_
+- `Connect with Thunderbolt 3 on your new MacBook Pro <https://support.apple.com/en-us/HT207192>`_
+- `Hear Mickey Mouse or Minnie Mouse speak the time <https://support.apple.com/en-us/HT207194>`_
+- `Switch from two-step verification to two-factor authentication <https://support.apple.com/en-us/HT207198>`_
+- `About the security content of iOS 10.0.2 <https://support.apple.com/en-us/HT207199>`_
+- `If a Core Audio alert appears in GarageBand for iOS <https://support.apple.com/en-us/HT207202>`_
+- `Use Apple School Manager and Profile Manager to assign Volume Store content <https://support.apple.com/en-us/HT207204>`_
+- `Manage and delete contacts on your iPhone, iPad, or iPod touch <https://support.apple.com/en-us/HT207207>`_
+- `Change the font size or zoom level of web pages in Safari <https://support.apple.com/en-us/HT207209>`_
+- `Use mailboxes to organize emails on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207213>`_
+- `How to find your parked car with Maps on your iPhone <https://support.apple.com/en-us/HT207227>`_
+- `Lists of available trusted root certificates in tvOS <https://support.apple.com/en-us/HT207231>`_
+- `List of available trusted root certificates in tvOS 10 <https://support.apple.com/en-us/HT207232>`_
+- `About Subscriptions and Privacy <https://support.apple.com/en-us/HT207233>`_
+- `How to use pro apps with Optimized Storage <https://support.apple.com/en-us/HT207236>`_
+- `If you can't find your shared Final Cut Pro X media in iTunes <https://support.apple.com/en-us/HT207237>`_
+- `Export XML from Final Cut Pro X 10.3 for Logic Pro X <https://support.apple.com/en-us/HT207238>`_
+- `Using function keys on MacBook Pro with Touch Bar <https://support.apple.com/en-us/HT207240>`_
+- `Pages for iOS release notes <https://support.apple.com/en-us/HT207242>`_
+- `Pages for Mac release notes <https://support.apple.com/en-us/HT207243>`_
+- `Numbers for Mac release notes <https://support.apple.com/en-us/HT207244>`_
+- `Numbers for iOS release notes <https://support.apple.com/en-us/HT207245>`_
+- `Keynote for iOS release notes <https://support.apple.com/en-us/HT207246>`_
+- `Keynote for Mac release notes <https://support.apple.com/en-us/HT207247>`_
+- `Verify installation of Pro Video Formats <https://support.apple.com/en-us/HT207249>`_
+- `Prevent your Mac from downloading updates in the background  <https://support.apple.com/en-us/HT207251>`_
+- `Add a personal Apple ID as a contributor to a managed iTunes U course <https://support.apple.com/en-us/HT207252>`_
+- `Use the TV app on your Apple TV (4th generation), iPhone, and iPad <https://support.apple.com/en-us/HT207254>`_
+- `Connect with Thunderbolt 3 on your new MacBook Pro <https://support.apple.com/en-us/HT207256>`_
+- `Use accessibility features with Touch Bar on your MacBook Pro <https://support.apple.com/en-us/HT207257>`_
+- `Use accessibility features with Touch Bar on your MacBook Pro <https://support.apple.com/en-us/HT207258>`_
+- `Use camera modes on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207260>`_
+- `Update your libraries for Final Cut Pro X 10.3 <https://support.apple.com/en-us/HT207261>`_
+- `If your iPhone 7 or iPhone 7 Plus enters recovery mode as you try to update <https://support.apple.com/en-us/HT207262>`_
+- `About the security content of iOS 10.0.3 <https://support.apple.com/en-us/HT207263>`_
+- `About Final Cut Pro X and Motion plug-in compatibility <https://support.apple.com/en-us/HT207264>`_
+- `Connect devices and displays with the Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter <https://support.apple.com/en-us/HT207266>`_
+- `Xsan 5 volumes might be temporarily inaccessible after some operations <https://support.apple.com/en-us/HT207267>`_
+- `About the security content of Xcode 8.1 <https://support.apple.com/en-us/HT207268>`_
+- `About the security content of watchOS 3.1 <https://support.apple.com/en-us/HT207269>`_
+- `About the security content of tvOS 10.0.1 <https://support.apple.com/en-us/HT207270>`_
+- `About the security content of iOS 10.1 <https://support.apple.com/en-us/HT207271>`_
+- `About the security content of Safari 10.0.1 <https://support.apple.com/en-us/HT207272>`_
+- `About the security content of iCloud for Windows 6.0.1 <https://support.apple.com/en-us/HT207273>`_
+- `About the security content of iTunes 12.5.2 for Windows <https://support.apple.com/en-us/HT207274>`_
+- `About the security content of macOS Sierra 10.12.1, Security Update 2016-002 El Capitan, and Security Update 2016-006 Yosemite <https://support.apple.com/en-us/HT207275>`_
+- `Redeem your App Store Top-Up card in China <https://support.apple.com/en-us/HT207276>`_
+- `If a DVD created in Final Cut Pro X, Motion, or Compressor is blank <https://support.apple.com/en-us/HT207277>`_
+- `If your MacBook Pro (15-inch, Late 2016) doesn't start up correctly with Sharp PN-K321 display connected <https://support.apple.com/en-us/HT207278>`_
+- `How to use the flashlight on your iPhone and iPod touch <https://support.apple.com/en-us/HT207281>`_
+- `About the security content of iOS 10.1.1 <https://support.apple.com/en-us/HT207287>`_
+- `If you see a "No images are available" error message when you install Windows 10 <https://support.apple.com/en-us/HT207300>`_
+- `Turn off Voice Control on your iPhone <https://support.apple.com/en-us/HT207301>`_
+- `If images appear cropped in the viewer in Final Cut Pro X 10.3 <https://support.apple.com/en-us/HT207304>`_
+- `Availability of Apple programs for education and business <https://support.apple.com/en-us/HT207305>`_
+- `About the macOS Sierra 10.12.2 Update <https://support.apple.com/en-us/HT207307>`_
+- `iOS Compatibility with Cisco QoS Fastlane & Adaptive 802.11r <https://support.apple.com/en-us/HT207308>`_
+- `Take and edit Live Photos <https://support.apple.com/en-us/HT207310>`_
+- `Safety certifications for iPod touch batteries <https://support.apple.com/en-us/HT207312>`_
+- `Replace your iPhone, iPad, or Apple Watch <https://support.apple.com/en-us/HT207313>`_
+- `Share photos to Facebook from iPhoto and Aperture <https://support.apple.com/en-us/HT207355>`_
+- `If a library won't update in Final Cut Pro X 10.3 <https://support.apple.com/en-us/HT207357>`_
+- `Using the Escape button on your MacBook Pro with Touch Bar <https://support.apple.com/en-us/HT207358>`_
+- `If kernel_task is using a large percentage of your Mac CPU <https://support.apple.com/en-us/HT207359>`_
+- `If your Xsan service doesn’t work after you upgrade to macOS Sierra 10.12.2 <https://support.apple.com/en-us/HT207367>`_
+- `Organize and find your photos <https://support.apple.com/en-us/HT207368>`_
+- `If Final Cut Pro X 10.3 doesn't open previously open libraries <https://support.apple.com/en-us/HT207370>`_
+- `If you see an ISO file error while using Boot Camp to install Windows <https://support.apple.com/en-us/HT207407>`_
+- `If you can't buy, redownload, or play 1080p video content from the iTunes Store <https://support.apple.com/en-us/HT207408>`_
+- `Connect your Student Information System to Apple School Manager <https://support.apple.com/en-us/HT207409>`_
+- `Install Audio Driver Update for Boot Camp to avoid issues with 2016 MacBook Pro speakers <https://support.apple.com/en-us/HT207410>`_
+- `Upgrade to Xsan 5 <https://support.apple.com/en-us/HT207413>`_
+- `About iTunes U <https://support.apple.com/en-us/HT207420>`_
+- `About the security content of Safari 10.0.2 <https://support.apple.com/en-us/HT207421>`_
+- `About the security content of iOS 10.2 <https://support.apple.com/en-us/HT207422>`_
+- `About the security content of macOS Sierra 10.12.2, Security Update 2016-003 El Capitan, and Security Update 2016-007 Yosemite <https://support.apple.com/en-us/HT207423>`_
+- `About the security content of iCloud for Windows 6.1 <https://support.apple.com/en-us/HT207424>`_
 - `About the security content of tvOS 10.1 - Appl^Ce Support <https://support.apple.com/en-us/HT207425>`_
-- `About the security content of iTunes 12.5.4 for Windows - Apple Support <https://support.apple.com/en-us/HT207427>`_
-- `What does iCloud back up? - Apple Support <https://support.apple.com/en-us/HT207428>`_
-- `About the security content of Transporter 1.9.2 - Apple Support <https://support.apple.com/en-us/HT207432>`_
-- `Preserve or migrate data for Apple Configurator 2 - Apple Support <https://support.apple.com/en-us/HT207434>`_
-- `Use the LG UltraFine 4K Display with your MacBook or MacBook Pro - Apple Support <https://support.apple.com/en-us/HT207447>`_
-- `Use the LG UltraFine 5K Display with your Mac - Apple Support <https://support.apple.com/en-us/HT207448>`_
-- `About the battery usage on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207453>`_
-- `Safari and WebKit ending support for SHA-1 certificates - Apple Support <https://support.apple.com/en-us/HT207459>`_
-- `About the macOS Sierra 10.12.3 Update - Apple Support <https://support.apple.com/en-us/HT207462>`_
-- `Apply plug-in effects to audio regions in Logic Pro X - Apple Support <https://support.apple.com/en-us/HT207467>`_
-- `Work with track alternatives in Logic Pro X - Apple Support <https://support.apple.com/en-us/HT207468>`_
-- `Turn off Hyper-V to use Windows 10 on your Mac - Apple Support <https://support.apple.com/en-us/HT207469>`_
-- `Use HDR on your iPhone, iPad, and iPod touch - Apple Support <https://support.apple.com/en-us/HT207470>`_
-- `Use Extreme Tuning in GarageBand for iOS - Apple Support <https://support.apple.com/en-us/HT207471>`_
-- `Logic Pro X 10.2 – 10.2.4 release notes - Apple Support <https://support.apple.com/en-us/HT207473>`_
-- `About the security content of Logic Pro X 10.3 - Apple Support <https://support.apple.com/en-us/HT207476>`_
-- `About the security content of GarageBand 10.1.5 - Apple Support <https://support.apple.com/en-us/HT207477>`_
-- `About the security content of iCloud for Windows 6.1.1 - Apple Support <https://support.apple.com/en-us/HT207481>`_
-- `About the security content of iOS 10.2.1 - Apple Support <https://support.apple.com/en-us/HT207482>`_
-- `About the security content of macOS Sierra 10.12.3 - Apple Support <https://support.apple.com/en-us/HT207483>`_
-- `About the security content of Safari 10.0.3 - Apple Support <https://support.apple.com/en-us/HT207484>`_
-- `About the security content of tvOS 10.1.1 - Apple Support <https://support.apple.com/en-us/HT207485>`_
-- `About the security content of iTunes 12.5.5 for Windows - Apple Support <https://support.apple.com/en-us/HT207486>`_
-- `About the security content of watchOS 3.1.3 - Apple Support <https://support.apple.com/en-us/HT207487>`_
-- `If an alert in the TV app repeatedly asks you to connect your apps - Apple Support <https://support.apple.com/en-us/HT207491>`_
-- `If text in Osaka font looks clipped in iPhoto projects - Apple Support <https://support.apple.com/en-us/HT207494>`_
-- `Apple FIPS Cryptographic Modules v7.0 for iOS 10 - Apple Support <https://support.apple.com/en-us/HT207496>`_
-- `Apple FIPS Cryptographic Modules v7.0 for macOS Sierra 10.12 - Apple Support <https://support.apple.com/en-us/HT207497>`_
-- `Exchange "Pro Apps Bundle for Education" redemption codes  - Apple Support <https://support.apple.com/en-us/HT207500>`_
+- `About the security content of iTunes 12.5.4 for Windows <https://support.apple.com/en-us/HT207427>`_
+- `What does iCloud back up? <https://support.apple.com/en-us/HT207428>`_
+- `About the security content of Transporter 1.9.2 <https://support.apple.com/en-us/HT207432>`_
+- `Preserve or migrate data for Apple Configurator 2 <https://support.apple.com/en-us/HT207434>`_
+- `Use the LG UltraFine 4K Display with your MacBook or MacBook Pro <https://support.apple.com/en-us/HT207447>`_
+- `Use the LG UltraFine 5K Display with your Mac <https://support.apple.com/en-us/HT207448>`_
+- `About the battery usage on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207453>`_
+- `Safari and WebKit ending support for SHA-1 certificates <https://support.apple.com/en-us/HT207459>`_
+- `About the macOS Sierra 10.12.3 Update <https://support.apple.com/en-us/HT207462>`_
+- `Apply plug-in effects to audio regions in Logic Pro X <https://support.apple.com/en-us/HT207467>`_
+- `Work with track alternatives in Logic Pro X <https://support.apple.com/en-us/HT207468>`_
+- `Turn off Hyper-V to use Windows 10 on your Mac <https://support.apple.com/en-us/HT207469>`_
+- `Use HDR on your iPhone, iPad, and iPod touch <https://support.apple.com/en-us/HT207470>`_
+- `Use Extreme Tuning in GarageBand for iOS <https://support.apple.com/en-us/HT207471>`_
+- `Logic Pro X 10.2 – 10.2.4 release notes <https://support.apple.com/en-us/HT207473>`_
+- `About the security content of Logic Pro X 10.3 <https://support.apple.com/en-us/HT207476>`_
+- `About the security content of GarageBand 10.1.5 <https://support.apple.com/en-us/HT207477>`_
+- `About the security content of iCloud for Windows 6.1.1 <https://support.apple.com/en-us/HT207481>`_
+- `About the security content of iOS 10.2.1 <https://support.apple.com/en-us/HT207482>`_
+- `About the security content of macOS Sierra 10.12.3 <https://support.apple.com/en-us/HT207483>`_
+- `About the security content of Safari 10.0.3 <https://support.apple.com/en-us/HT207484>`_
+- `About the security content of tvOS 10.1.1 <https://support.apple.com/en-us/HT207485>`_
+- `About the security content of iTunes 12.5.5 for Windows <https://support.apple.com/en-us/HT207486>`_
+- `About the security content of watchOS 3.1.3 <https://support.apple.com/en-us/HT207487>`_
+- `If an alert in the TV app repeatedly asks you to connect your apps <https://support.apple.com/en-us/HT207491>`_
+- `If text in Osaka font looks clipped in iPhoto projects <https://support.apple.com/en-us/HT207494>`_
+- `Apple FIPS Cryptographic Modules v7.0 for iOS 10 <https://support.apple.com/en-us/HT207496>`_
+- `Apple FIPS Cryptographic Modules v7.0 for macOS Sierra 10.12 <https://support.apple.com/en-us/HT207497>`_
+- `Exchange "Pro Apps Bundle for Education" redemption codes  <https://support.apple.com/en-us/HT207500>`_
 
