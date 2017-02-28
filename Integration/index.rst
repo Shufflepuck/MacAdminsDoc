@@ -1,5 +1,3 @@
-Integration
-***********
 
 .. toctree::
     :maxdepth: 2
