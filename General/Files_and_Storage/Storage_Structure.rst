@@ -6,24 +6,18 @@ Partition Schemes
 -----------------
 
 
-- **Apple Partition Map (APM)**: This is the traditional Apple partitioning scheme used to start up a PowerPC-based Macintosh computer, to use the disk as a non-startup disk with any Mac, or to create a multiplatform compatible startup disk. 
-- **Master Boot Record (MBR)**: This is the DOS/Windows-compatible partitioning scheme.
-- **GUID Partitioning Table (GPT)**: This is the partitioning scheme used to start up an Intel-based Macintosh Computer.
+=======     =======================     =========================================================================
+Acronym     Name                        Description                                                             
+=======     =======================     =========================================================================
+APM         Apple Partition Map         This is the traditional Apple partitioning scheme used to start up a   
+                                        PowerPC-based Macintosh computer, to use the disk as a non-startup disk
+                                        with any Mac, or to create a multiplatform compatible startup disk.    
+MBR         Master Boot Record          This is the DOS/Windows-compatible partitioning scheme.              
+GPT         GUID Partitioning Table     This is the partitioning scheme used to start up an Intel-based        
+                                        Macintosh computer.                                                     
+=======     =======================     =========================================================================
 
-+---------+-------------------------+-------------------------------------------------------------------------+
-| Acronym | Name                    | Description                                                             |
-+---------+-------------------------+-------------------------------------------------------------------------+
-| APM     | Apple Partition Map     | This is the traditional Apple partitioning scheme used to start up a    |
-|         |                         | PowerPC-based Macintosh computer, to use the disk as a non-startup disk |
-|         |                         | with any Mac, or to create a multiplatform compatible startup disk.     |
-+---------+-------------------------+-------------------------------------------------------------------------+
-| MBR     | Master Boot Record      | This is the DOS/Windows-compatible partitioning scheme.                 |
-+---------+-------------------------+-------------------------------------------------------------------------+
-| GPT     | GUID Partitioning Table | This is the partitioning scheme used to start up an Intel-based         |
-|         |                         | Macintosh computer.                                                     |
-+---------+-------------------------+-------------------------------------------------------------------------+
-
-Source: [diskutil(8)](x-man-page://8/diskutil)
+Source: `diskutil(8) <x-man-page://8/diskutil>`_
 
 Filesystems
 -----------
@@ -45,9 +39,7 @@ Journaled HFS+ (or jhfs+)                   Mac OS Extended (Journaled)
 ========================================    ==============================================    ===========
 
 
-Source: `diskutil(8) <x-man-page://8/diskutil>`
-`<x-man-page://8/diskutil>`
-<x-man-page://8/diskutil>
+Source: `diskutil(8) <x-man-page://8/diskutil>`_
 
 APFS
 ^^^^
@@ -68,21 +60,18 @@ It features awesome new and improved features such as:
 
 Rich Trouton did a very interesting talk at MacAdUk. Grab it [here](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit).
 
-Source: `APFS Guide <https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999-CH1-DontLinkElementID_18>`
+Source: `APFS Guide <https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999-CH1-DontLinkElementID_18>`_
 
 CoreStorage
 -----------
 
-+-------+----+-----------+
-|Acronym|Name|Description|
+=======     =======================     =========================================================================
+Acronym     Name                        Description                                                             
+=======     =======================     =========================================================================
+LVG         Logical Volume Group
+PV          Physical Volume
+LVF         Logical Volume Family
+LV          Logical Volume
+=======     =======================     =========================================================================
 
-|LVG|Logical Volume Group||
-+-------+----+-----------+
-|PV|Physical Volume||
-+-------+----+-----------+
-|LVF|Logical Volume Family||
-+-------+----+-----------+
-|LV|Logical Volume||
-+-------+----+-----------+
-
-Source: `diskutil(8) <x-man-page://8/diskutil>`
+Source: `diskutil(8) <x-man-page://8/diskutil>`_
