@@ -6,23 +6,23 @@ Setup Assistant is also called "MacBuddy"
 Setup Assistant Panes
 ---------------------
 
-===========================================     ==================      ===========     ==============    ================================
-Name                                            Log Short Name          MDM Key         MDM Skippable?    File Trigger
-===========================================     ==================      ===========     ==============    ================================
-Choose Language                                                                         No                `/var/db/.AppleSetupDone`
-Select Keyboard                                 SelectKeyboard                          No                `/var/db/.AppleSetupDone`
-Network Setup                                   SelectWiFiNetwork                       No                `/var/db/.AppleSetupDone`
-Transfer Data                                   MigrationWelcome        Restore         Yes               `/var/db/.AppleSetupDone`
-Location Services                               EnableCoreLocation      Location        Yes               `/var/db/.AppleSetupDone`
-Apple ID and iCloud Sign-in                     iCloudLogin             AppleID         Yes               `com.apple.SetupAssistant.plist` 
-Terms and Conditions                            LicenseViewer           TOS             Yes               `/var/db/.AppleSetupDone`
-Create User Account                             CreateUserAccount                       Yes*              `/var/db/.AppleSetupDone`
-Automatically sending diagnostic information    DiagnosticsAndUsage     Diagnostics     Yes               `com.apple.SetupAssistant.plist` 
-Siri                                            EnableSiri              Siri            Yes               `/var/db/.AppleSetupDone`
-Touch ID                                                                Biometric       Yes               `/var/db/.AppleSetupDone`
-Apple Pay                                                               Payment         Yes               `/var/db/.AppleSetupDone`
-Setting Up Your Mac                             SettingUpYourMac                        No                `/var/db/.AppleSetupDone`
-===========================================     ==================      ===========     ==============    ================================
+============================================   ==================      ===========     ==============    ================================
+Name                                           Log Short Name          MDM Key         MDM Skippable?    File Trigger
+============================================   ==================      ===========     ==============    ================================
+Choose Language                                                                        No                `/var/db/.AppleSetupDone`
+Select Keyboard                                SelectKeyboard                          No                `/var/db/.AppleSetupDone`
+Network Setup                                  SelectWiFiNetwork                       No                `/var/db/.AppleSetupDone`
+Transfer Data                                  MigrationWelcome        Restore         Yes               `/var/db/.AppleSetupDone`
+Location Services                              EnableCoreLocation      Location        Yes               `/var/db/.AppleSetupDone`
+Apple ID and iCloud Sign-in                    iCloudLogin             AppleID         Yes               `com.apple.SetupAssistant.plist` 
+Terms and Conditions                           LicenseViewer           TOS             Yes               `/var/db/.AppleSetupDone`
+Create User Account                            CreateUserAccount                       Yes*              `/var/db/.AppleSetupDone`
+Automatically sending diagnostic information   DiagnosticsAndUsage     Diagnostics     Yes               `com.apple.SetupAssistant.plist` 
+Siri                                           EnableSiri              Siri            Yes               `/var/db/.AppleSetupDone`
+Touch ID                                                               Biometric       Yes               `/var/db/.AppleSetupDone`
+Apple Pay                                                              Payment         Yes               `/var/db/.AppleSetupDone`
+Setting Up Your Mac                            SettingUpYourMac                        No                `/var/db/.AppleSetupDone`
+============================================   ==================      ===========     ==============    ================================
 
 \*Initial User Creation can be skipped under certain conditions
 
