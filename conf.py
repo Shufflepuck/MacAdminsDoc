@@ -12,8 +12,7 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
-#html_static_path = ['_static']
-html_static_path = []
+html_static_path = ['_static']
 
 master_doc = 'index'
 project = u'MacAdmins Community Documentation'
