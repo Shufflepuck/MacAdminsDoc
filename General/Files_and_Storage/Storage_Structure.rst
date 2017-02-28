@@ -5,11 +5,6 @@ Storage Structure
 Partition Schemes
 -----------------
 
-+-------+----+-----------+
-|Acronym|Name|Description|
-+-------+----+-----------+
-|Acronym|Name|Description|
-+-------+----+-----------+
 
 - **Apple Partition Map (APM)**: This is the traditional Apple partitioning scheme used to start up a PowerPC-based Macintosh computer, to use the disk as a non-startup disk with any Mac, or to create a multiplatform compatible startup disk. 
 - **Master Boot Record (MBR)**: This is the DOS/Windows-compatible partitioning scheme.
