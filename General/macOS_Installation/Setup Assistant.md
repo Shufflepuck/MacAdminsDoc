@@ -1,8 +1,10 @@
-#Setup Assistant
+Setup Assistant
+===============
 
 Setup Assistant is also called "MacBuddy"
 
-##Setup Assistant Steps
+Setup Assistant Steps
+--------------------------------
 |Name|Log Short Name		| MDM Key 	| MDM Skippable? | File Trigger |
 |----|--------------------|------------|-----------------|--------------|
 |Choose Language|||No| | `/var/db/.AppleSetupDone`|
@@ -24,14 +26,19 @@ Setup Assistant is also called "MacBuddy"
 
 
 
-##Skipping Setup Assistant
+Skipping Setup Assistant
+--------------------------------
 
-###With an MDM
+With an MDM
+^^^^^^^^^^^
+
 Having a MDM can allow skipping some steps.
 
 More info on MDM protocol [here](https://developer.apple.com/library/prerelease/content/documentation/Miscellaneous/Reference/MobileDeviceManagementProtocolRef/4-Profile_Management/ProfileManagement.html#//apple_ref/doc/uid/TP40017387-CH7-SW50) (search for `skip_setup_items`)
 
-###By messing with some files
+By messing with some files
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Setup Assistant will only launch if `/var/db/.AppleSetupDone` is not present. Deleting this key will skip most of the steps.
 
 `/Users/[username]/Library/Preferences/com.apple.SetupAssistant.plist` will store iCloud/Apple ID setup and Diagnostic Information agreement. More info on [Rich's blog](https://derflounder.wordpress.com/2014/10/16/disabling-the-icloud-and-diagnostics-pop-up-windows-in-yosemite/)

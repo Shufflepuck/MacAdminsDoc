@@ -1,8 +1,9 @@
+macOS Installation
+******************
+
 .. toctree::
     :maxdepth: 2
     :titlesonly:
     :glob:
 
     *
-    Packaging/index 
-    macOS_Installation/index
