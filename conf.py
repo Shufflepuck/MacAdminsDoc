@@ -15,6 +15,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 project = u'MacAdmins Community Documentation'
 copyright = u'GPL'
+github_doc_root = 'http://github.com/Shufflepuck/MacAdminsDoc/tree/master/'
 
 html_context = {
     "display_github": True, # Integrate GitHub
