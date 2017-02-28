@@ -38,13 +38,13 @@ License
 _MacAdmins Doc_ is licensed under a `Creative Commons Attribution-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-sa/4.0/>`_
 
 
-.. _general:
+.. _docs:
 
 .. toctree::
-   :maxdepth: 1
-   :caption: General Mac Knowledge
+   :maxdepth: 2
+   :caption: Documentation
 
    General/index
+   Integration/index
    MDM/jamfpro/index
    MDM/AirWatch/index
-   Integration/index
