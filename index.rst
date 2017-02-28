@@ -30,12 +30,20 @@ OS X is getting more and more used by Organizations. This means more and more no
 
 _MacAdmins Doc_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
+
+.. _general:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: General Mac Knowledge
+
+   General/index
+   
 .. _jamfpro:
 
 .. toctree::
    :maxdepth: 2
    :caption: Jamf Pro
-
    MDM/jamfpro/index
    MDM/CasperSuite/index
 
