@@ -4,6 +4,8 @@
 
         **Authors**: 
             * :ref:`ftiff <team-ftiff>`
+        
+        **Last Updated**: March 1st, 2017
 
 SQL Clients
 ===========
@@ -19,7 +21,7 @@ Components needed
 
 - `Java 1.8 JDK <http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>`_
 - `JTOpen <http://jt400.sourceforge.net/>`_
-- `SQuirrel <http://www.squirrelsql.org/#installation>>`_
+- `SQuirrel <http://www.squirrelsql.org/#installation>`_
 
 
 ## JTOpen
