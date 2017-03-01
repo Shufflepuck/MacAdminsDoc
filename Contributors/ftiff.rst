@@ -1,4 +1,4 @@
-.. _ftiff:
+.. _team-ftiff:
 
 .. sidebar:: Profile Picture
 
