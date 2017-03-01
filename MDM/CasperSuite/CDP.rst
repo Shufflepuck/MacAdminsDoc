@@ -3,7 +3,7 @@
     .. sidebar:: Article information
 
         **Authors**: 
-            * `<ftiff>`_
+            * ftiff_
 
 Configuring Cloud Distribution Points
 =====================================
