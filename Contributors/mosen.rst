@@ -1,10 +1,11 @@
 .. _mosen:
 
-mosen
------
 .. sidebar:: Profile Picture
 
     .. image:: mosen_avatar.png
+
+mosen
+-----
 
 ================================    ============================
 Real Name                           Unknown

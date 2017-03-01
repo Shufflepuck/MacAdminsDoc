@@ -1,10 +1,11 @@
 .. _ftiff:
 
-ftiff
------
 .. sidebar:: Profile Picture
 
     .. image:: ftiff_avatar.png
+
+ftiff
+-----
 
 ================================    ============================
 Real Name                           François Levaux-Tiffreau
