@@ -2,10 +2,10 @@
 
     .. sidebar:: Article information
 
-        **Authors**: 
-            * :ref:`ftiff <team-ftiff>`
+        :Authors: 
+            :ref:`ftiff <team-ftiff>`
         
-        **Last Updated**: March 1st, 2017
+        :Updated: March 1st, 2017
 
 SQL Clients
 ===========
