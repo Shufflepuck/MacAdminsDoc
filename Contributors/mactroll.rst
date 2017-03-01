@@ -8,7 +8,7 @@ mactroll
 --------
 
 ================================    ============================
-Real Name                           Joell Rennich
+Real Name                           Joel Rennich
 ================================    ============================
 Employer                            Trusource Labs
 Slack                               `@mactroll <https://macadmins.slack.com/team/mactroll>`_
