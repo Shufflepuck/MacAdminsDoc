@@ -16,7 +16,7 @@ html_static_path = ['_static']
 
 master_doc = 'index'
 project = u'MacAdmins Community Documentation'
-copyright = u'GPL'
+copyright = u'CC BY-SA 4.0'
 github_doc_root = 'http://github.com/Shufflepuck/MacAdminsDoc/tree/master/'
 
 html_context = {
