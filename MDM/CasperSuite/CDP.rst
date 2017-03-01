@@ -1,3 +1,10 @@
+.. only:: html
+
+    .. sidebar:: Article information
+
+        **Authors**: 
+            * :ref:`ftiff <ftiff>`
+
 Configuring Cloud Distribution Points
 =====================================
 
