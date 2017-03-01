@@ -42,4 +42,5 @@ _MacAdmins Doc_ is licensed under a `Creative Commons Attribution-ShareAlike 4.0
    :maxdepth: 2
    :caption: About
 
+   About/index
    Contributors/index
