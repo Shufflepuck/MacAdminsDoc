@@ -2,8 +2,10 @@
 
     .. sidebar:: Article information
 
-        **Authors**: 
-            * :ref:`Mosen <team-mosen>`
+        :Authors: 
+            :ref:`Mosen <team-mosen>`
+        
+        :Updated: |today|
 
 Open Source and Jamf
 ====================

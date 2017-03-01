@@ -2,8 +2,10 @@
 
     .. sidebar:: Article information
 
-        **Authors**: 
-            * :ref:`ftiff <team-ftiff>`
+        :Authors: 
+            :ref:`ftiff <team-ftiff>`
+        
+        :Updated: |today|
 
 Microsoft Office 2016
 =====================

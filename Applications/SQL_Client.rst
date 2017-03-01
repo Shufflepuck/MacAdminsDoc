@@ -24,7 +24,7 @@ Components needed
 - `SQuirrel <http://www.squirrelsql.org/#installation>`_
 
 
-## JTOpen
+JTOpen
 """""""""
 
 The IBM Toolbox for Java is a library of Java classes supporting the client/server and internet programming models to a system running IBM i (or i5/OS or OS/400). The classes are used by SQuirreL to easily access IBM i data and resources.
@@ -35,7 +35,7 @@ The IBM Toolbox for Java is a library of Java classes supporting the client/serv
 
     ``sudo ditto ~/Downloads/jtopen_9_0/lib /usr/local/lib/jtopen_9_0``
 
-## SQuirreL
+SQuirreL
 """"""""""""
 
 1. Download `SQuirrel <http://www.squirrelsql.org/#installation>>`_
