@@ -15,6 +15,7 @@ Active Directory
 Binding or not to Active Directory is *the* debate today. A couple of years ago, the general recommandation was to bind computers to Active Directory. With the change from desktop and shared computers to 1-to-1 laptop deployments, the picture has dramatically changed.
 
 After the Kerbminder and ADPassMon scripts, we now have two alternatives:
+
 * Apple Enterprise Connect
 * Truesource Labs' NoMAD
 
