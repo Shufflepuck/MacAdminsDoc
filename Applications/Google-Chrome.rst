@@ -1,3 +1,10 @@
+.. only:: html
+
+    .. sidebar:: Article information
+
+        **Authors**: 
+            * :ref:`ftiff <team-ftiff>`
+
 Google Chrome
 =============
 

@@ -39,6 +39,7 @@ _MacAdmins Doc_ is licensed under a `Creative Commons Attribution-ShareAlike 4.0
    MDM/AirWatch/index
    MDM/Puppet/index
    Profiles-and-Settings/index
+   Applications/index
    
 
 .. toctree::
