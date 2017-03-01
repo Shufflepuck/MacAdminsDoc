@@ -6,4 +6,4 @@ Jamf Pro
     :glob:
 
     *
-    ../CasperSuite/*
+    ../CasperSuite/index
