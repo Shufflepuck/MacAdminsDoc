@@ -1,6 +1,8 @@
+.. _ftiff:
+
 ftiff
 -----
-.. sidebar:: Article information
+.. sidebar:: Profile Picture
 
     .. image:: ftiff_avatar.png
 

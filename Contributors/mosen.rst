@@ -1,13 +1,15 @@
+.. _mosen:
+
 mosen
 -----
-.. sidebar:: Article information
+.. sidebar:: Profile Picture
 
     .. image:: mosen_avatar.png
 
 ================================    ============================
 Real Name                           Unknown
 ================================    ============================
-Slack                               `@ftiff <https://macadmins.slack.com/team/mosen>`_
+Slack                               `@mosen <https://macadmins.slack.com/team/mosen>`_
 ================================    ============================
 
 
