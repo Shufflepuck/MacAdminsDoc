@@ -5,7 +5,7 @@
         :Authors: 
             :ref:`ftiff <team-ftiff>`
         
-        :Updated: March 1st, 2017
+        :Updated: |today|
 
 SQL Clients
 ===========
