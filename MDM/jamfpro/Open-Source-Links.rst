@@ -1,5 +1,10 @@
-:Title: Open Source and Jamf
-:Author: Mosen
+.. only:: html
+
+    .. sidebar:: Article information
+
+        **Authors**: 
+
+            - Mosen
 
 Open Source and Jamf
 ====================
