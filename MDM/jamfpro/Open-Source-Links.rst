@@ -4,7 +4,7 @@
 
         **Authors**: 
 
-            - Mosen
+            * :ref:`Mosen <mosen>`
 
 Open Source and Jamf
 ====================
