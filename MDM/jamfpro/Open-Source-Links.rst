@@ -3,7 +3,7 @@
     .. sidebar:: Article information
 
         **Authors**: 
-            * :ref:`Mosen <mosen>`
+            * :ref:`Mosen <team-mosen>`
 
 Open Source and Jamf
 ====================
