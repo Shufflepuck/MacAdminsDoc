@@ -1,3 +1,14 @@
+.. only:: html
+
+    .. sidebar:: Article information
+
+        **Authors**: 
+            * :ref:`Ftiff <team-ftiff>`
+            * :ref:`Mactroll <team-mactroll>` (NoMAD developer)
+            * Rick (Enterprise Connect developer)
+            * Adam (Apple Professional Services)
+            
+
 Active Directory
 ================
 
