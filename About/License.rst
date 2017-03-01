@@ -4,6 +4,7 @@ License
 License is Creative Common `Attribution-ShareAlike 4.0 International <http://creativecommons.org/licenses/by-sa/4.0/>`_ (CC BY-SA 4.0)
 
 This means:
+
 You are free to:
 ----------------
 
