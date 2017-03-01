@@ -10,9 +10,10 @@ For OS X packages, installed by Installer.app or Software update, use ``sudo pkg
 
 This will get updated at next recon to Inventory > Package Receipts > Installer.app/SWU.
 
-Note: According to `pkgutil(1) <x-man-page::/1/pkgutil>`_::
+Note: According to `pkgutil(1) <x-man-page://1/pkgutil>`_::
 
-  Discard all receipt data about package-id, but do not touch the installed files.  DO NOT use this command from an installer package script to fix broken package design.
+  Discard all receipt data about package-id, but do not touch the installed files.  
+  DO NOT use this command from an installer package script to fix broken package design.
 
 Casper Suite
 ------------
