@@ -18,7 +18,7 @@ Binding or not to Active Directory is *the* debate today. A couple of years ago,
 After the Kerbminder and ADPassMon scripts, we now have two alternatives:
 
 * Apple Enterprise Connect
-* Truesource Labs' NoMAD
+* Trusource Labs' NoMAD
 
 Arguments for binding or not binding to Active Directory
 --------------------------------------------------------
@@ -71,13 +71,14 @@ Network Share Automount                                                         
 Support for SSO on DFS shares                                                   x                                                                                   Planned                                                     x 
 AD Binding required?                                                            x                                                                                   x                                                           √ 
 macOS native?                                                                   Uses Apple Frameworks                                                               Uses Apple Frameworks                                       macOS Native
-Script on password change                                                       √                                                                                   x                                                           x
+Script on password change                                                       √                                                                                   √                                                           x
 Script on connection completed                                                  √                                                                                   √                                                           x
-Audit script                                                                    √                                                                                   Planned                                                     x
+Audit script                                                                    √                                                                                   x                                                           x
 Distribution                                                                    single .pkg                                                                         single .pkg                                                 macOS Native
 Configuration                                                                   via a Configuration Profile (and .plist)                                            via a Configuration Profile (and .plist)                    multiple ways
 X509 Identity from CA                                                           x                                                                                   √                                                           Mature
-Maturity                                                                        Mature                                                                              1.0.2                                                       x
+Language Support                                                                English                                                                             English, French, German, Danish                             All macOS languages
+Maturity                                                                        Mature                                                                              1.0.3                                                       x
 Installation                                                                    Two-day on-site professional services engagement                                    None                                                        None
 Price                                                                           $5,500 (one-time fee)                                                               Free, Support plans available ($399 to $2,500 per year)     Free
 Availability                                                                    Contact your local Apple Sales Rep                                                  http://nomad.menu                                           macOS Native
