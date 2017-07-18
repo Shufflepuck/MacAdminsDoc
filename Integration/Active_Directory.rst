@@ -50,7 +50,7 @@ Choosing between NoMAD and Apple Enterprise Connect
 Versions used:
 
 - Enterprise Connect 1.6.3
-- NoMAD 1.0.3
+- NoMAD 1.0.5
 - macOS 10.12
 
 =============================================================================   ===============================================================================     ========================================================    ==========================
@@ -77,8 +77,8 @@ Audit script                                                                    
 Distribution                                                                    single .pkg                                                                         single .pkg                                                 macOS Native
 Configuration                                                                   via a Configuration Profile (and .plist)                                            via a Configuration Profile (and .plist)                    multiple ways
 X509 Identity from CA                                                           x                                                                                   √                                                           Mature
-Language Support                                                                English                                                                             English, French, German, Danish, Swedish                    All macOS languages
-Maturity                                                                        Mature                                                                              1.0.4                                                       x
+Language Support                                                                English                                                                             English, French, German, Spanish, Danish, Swedish, Dutch, Polish    All macOS languages
+Maturity                                                                        Mature                                                                              1.0.5                                                       x
 Installation                                                                    Two-day on-site professional services engagement                                    None                                                        None
 Price                                                                           $5,500 (one-time fee)                                                               Free, Support plans available ($399 to $2,500 per year)     Free
 Availability                                                                    Contact your local Apple Sales Rep                                                  http://nomad.menu                                           macOS Native
