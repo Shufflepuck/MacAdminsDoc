@@ -19,7 +19,7 @@ com.apple.SoftwareUpdate
 Deploying
 ---------
 
-As of 2015.12.14, deploying com.apple.commerce doesn't work as profiles. You can use this `script <https://github.com/74bit/74bit_scripts/blob/master/enableOSXAutomaticUpdates/enableOSXAutomaticUpdates.sh>`_.
+As of 2017.07.27, deploying com.apple.commerce settings via profile is unpredictable. Forcing the settings to "false" appears to work, but forcing the settings to "true" does not. For maximum reliablity, use a `script <https://github.com/74bit/74bit_scripts/blob/master/enableOSXAutomaticUpdates/enableOSXAutomaticUpdates.sh>`_.
 
 With Casper Suite
 ^^^^^^^^^^^^^^^^^
