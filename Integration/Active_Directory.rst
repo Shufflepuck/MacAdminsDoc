@@ -18,7 +18,7 @@ Binding or not to Active Directory is *the* debate today. A couple of years ago,
 After the Kerbminder and ADPassMon scripts, we now have two alternatives:
 
 * Apple Enterprise Connect
-* Trusource Labs' NoMAD
+* Orchard & Grove - NoMAD
 
 Arguments for binding or not binding to Active Directory
 --------------------------------------------------------
@@ -77,7 +77,7 @@ Audit script                                                                    
 Distribution                                                                    single .pkg                                                                         single .pkg                                                 macOS Native
 Configuration                                                                   via a Configuration Profile (and .plist)                                            via a Configuration Profile (and .plist)                    multiple ways
 X509 Identity from CA                                                           x                                                                                   √                                                           Mature
-Language Support                                                                English                                                                             English, French, German, Spanish, Danish, Swedish, Dutch, Polish    All macOS languages
+Language Support                                                                English                                                                             English, French, German, Spanish and others.                All macOS languages
 Maturity                                                                        Mature                                                                              1.0.5                                                       x
 Installation                                                                    Two-day on-site professional services engagement                                    None                                                        None
 Price                                                                           $5,500 (one-time fee)                                                               Free, Support plans available ($399 to $2,500 per year)     Free
