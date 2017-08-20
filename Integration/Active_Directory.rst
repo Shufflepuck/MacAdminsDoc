@@ -49,7 +49,7 @@ Choosing between NoMAD and Apple Enterprise Connect
 
 Versions used:
 
-- Enterprise Connect 1.6.3
+- Enterprise Connect 1.8.0
 - NoMAD 1.0.5
 - macOS 10.12
 
@@ -58,13 +58,13 @@ x                                                                               
 =============================================================================   ===============================================================================     ========================================================    ==========================
 Vendor                                                                          Apple                                                                               Open Source                                                 Apple
 Support                                                                         Supported by Apple PS as included in the engagement and/or AppleCare OS Support     Support plans available                                     Supported by AppleCare OS Support
-OS requirement                                                                  10.9+                                                                               10.10+                                                      10.3+
+OS requirement                                                                  10.10+                                                                              10.10+                                                      10.3+
 Single Sign-On                                                                  Automatically                                                                       Automatically                                               Only at login and screensaver
 Password Expiration                                                             via Notification Center                                                             via Notification Center                                     Only at Login 
 Password change                                                                 via menu item                                                                       via menu item                                               via System Preferences or login window
 Fine Grained Password Policy support                                            ~ (doesn't honor password expiration time)                                          √                                                           x
 Quick links to getting support and software                                     x                                                                                   √                                                           x
-Support for changing passwords not using AD, e.g. a web-based password portal   x                                                                                   √                                                           x
+Support for changing passwords not using AD, e.g. a web-based password portal   √                                                                                   √                                                           x
 Password Synchronization                                                        Only when user is logged in                                                         Only when user is logged in                                 Automatic
 Home Network Share Automount                                                    √                                                                                   √                                                           x
 Network Share Automount                                                         √                                                                                   Planned                                                     x
@@ -76,8 +76,8 @@ Script on connection completed                                                  
 Audit script                                                                    √                                                                                   x                                                           x
 Distribution                                                                    single .pkg                                                                         single .pkg                                                 macOS Native
 Configuration                                                                   via a Configuration Profile (and .plist)                                            via a Configuration Profile (and .plist)                    multiple ways
-X509 Identity from CA                                                           x                                                                                   √                                                           Mature
-Language Support                                                                All macOS languages                                                                             English, French, German, Spanish and others.                All macOS languages
+X509 Identity from CA                                                           Script provided to request it via an AD Certificate profile payload                 √                                                           Mature
+Language Support                                                                All macOS languages                                                                 English, French, German, Spanish and others.                All macOS languages
 Maturity                                                                        Mature                                                                              1.0.5                                                       x
 Installation                                                                    Two-day on-site professional services engagement                                    None                                                        None
 Price                                                                           $5,500 (one-time fee)                                                               Free, Support plans available ($399 to $2,500 per year)     Free
