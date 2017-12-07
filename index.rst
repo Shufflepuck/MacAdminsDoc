@@ -40,6 +40,7 @@ _MacAdmins Doc_ is licensed under a `Creative Commons Attribution-ShareAlike 4.0
    MDM/Puppet/index
    Profiles-and-Settings/index
    Applications/index
+   Security/index
    
 
 .. toctree::
