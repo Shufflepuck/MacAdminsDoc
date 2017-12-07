@@ -1,4 +1,4 @@
-Security
+Antivirus
 *********************
 
 .. toctree::
@@ -7,4 +7,3 @@ Security
     :glob:
 
     *
-    Antivirus/index
